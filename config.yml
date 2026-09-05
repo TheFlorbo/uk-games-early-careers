@@ -20,7 +20,8 @@ disciplines:
   - gameplay
   - graphics
   - rendering
-  - engine
+  - engine programmer
+  - game engine
   - tools
   - technical artist
   - tech artist
@@ -51,6 +52,34 @@ disciplines:
   - security
   - it support
 
+# Titles containing these are dropped even if they match a discipline.
+# "Analyst" and "Designer" are legitimate tech titles, but they are also
+# finance, legal and marketing titles - these separate the two.
+exclude_titles:
+  - legal
+  - counsel
+  - solicitor
+  - paralegal
+  - treasury
+  - credit analyst
+  - revenue analyst
+  - tax
+  - accountant
+  - accounting
+  - payroll
+  - recruiter
+  - recruitment
+  - talent acquisition
+  - marketing
+  - sales
+  - account executive
+  - account manager
+  - brand designer
+  - copywriter
+  - office
+  - receptionist
+  - facilities
+
 # --- Entry level detection -------------------------------------------------
 entry_level:
   # Explicit junior signals in the title. Any match = accepted regardless of
@@ -77,25 +106,46 @@ entry_level:
   # Seniority signals. Any match = rejected outright.
   negative_title:
     - senior
-    - "snr"
-    - "sr."
-    - " sr "
+    - snr
+    - sr
     - lead
+    - leader
     - principal
-    - staff engineer
-    - head of
+    - staff
+    - head
     - director
     - manager
     - architect
     - expert
     - chief
-    - "vp "
-    - vice president
-    - " ii"
-    - " iii"
-    - " iv"
+    - vp
+    - ii
+    - iii
+    - iv
     - specialist
     - consultant
+
+  # Seniority is far more often described than counted. Any of these in the
+  # posting body rejects the role even when no number of years is given.
+  seniority_phrases:
+    - extensive experience
+    - significant experience
+    - substantial experience
+    - proven experience
+    - proven track record
+    - demonstrable experience
+    - deep expertise
+    - deep experience
+    - highly experienced
+    - seasoned
+    - you will lead
+    - lead a team
+    - leading a team
+    - technical leadership
+    - set the technical direction
+    - mentor junior
+    - mentoring junior
+    - line management
 
   # If a role has no explicit junior signal, reject it when the highest stated
   # experience requirement is at or above this many years.

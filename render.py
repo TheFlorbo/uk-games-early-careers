@@ -54,9 +54,13 @@ def _row(rec: dict) -> str:
     else:
         badges.append('<span class="badge adjacent">adjacent</span>')
 
+    loc = rec.get("location", "")
+    if rec.get("location_count", 1) > 3:
+        loc = f"{rec['location_count']} locations"
+
     return f"""      <li class="job" data-type="{_e(rec.get('company_type'))}">
         <a class="title" href="{_e(rec.get('url'))}" rel="noopener nofollow" target="_blank">{_e(rec.get('title'))}</a>
-        <div class="meta"><span class="co">{_e(rec.get('company'))}</span> &middot; {_e(rec.get('location'))}</div>
+        <div class="meta"><span class="co">{_e(rec.get('company'))}</span> &middot; {_e(loc)}</div>
         <div class="badges">{''.join(badges)}</div>
         <div class="why">{_e(rec.get('level_reason'))} &middot; via {_e(rec.get('source'))}</div>
       </li>"""
@@ -107,6 +111,10 @@ footer a{color:var(--link)}
 .health{display:flex;flex-wrap:wrap;gap:5px;margin-top:8px}
 .dot{font-size:.72rem;padding:2px 7px;border-radius:5px;background:var(--adjbg);color:var(--adj)}
 .dot.bad{background:var(--warnbg);color:var(--warn)}
+h2.sec{font-size:1.05rem;margin:30px 0 2px;display:flex;align-items:baseline;gap:8px}
+h2.sec:first-of-type{margin-top:8px}
+h2.sec span{font-size:.8rem;font-weight:500;color:var(--muted)}
+.note{color:var(--muted);font-size:.84rem;margin:0 0 12px;max-width:62ch}
 .empty{padding:28px;text-align:center;color:var(--muted);
 border:1px dashed var(--line);border-radius:10px}
 """
@@ -114,12 +122,16 @@ border:1px dashed var(--line);border-radius:10px}
 JS = """
 const btns=document.querySelectorAll('button.filter');
 const jobs=document.querySelectorAll('li.job');
+const secs=document.querySelectorAll('h2.sec');
 const count=document.getElementById('count');
 btns.forEach(b=>b.addEventListener('click',()=>{
   btns.forEach(x=>x.setAttribute('aria-pressed',x===b));
   const f=b.dataset.filter;let n=0;
   jobs.forEach(j=>{const show=(f==='all'||j.dataset.type===f);
     j.hidden=!show;if(show)n++;});
+  secs.forEach(h=>{const ul=h.nextElementSibling.nextElementSibling;
+    const any=ul&&[...ul.querySelectorAll('li.job')].some(j=>!j.hidden);
+    h.hidden=!any;h.nextElementSibling.hidden=!any;});
   if(count)count.textContent=n+(n===1?' role':' roles');
 }));
 """
@@ -131,10 +143,25 @@ def render_html(records: list[dict], health: list[dict], cfg: dict) -> str:
     ok = [h for h in health if h["ok"]]
     bad = [h for h in health if not h["ok"]]
 
-    rows = "\n".join(_row(r) for r in records) if records else ""
-    body = f"<ul id='list'>\n{rows}\n    </ul>" if records else (
-        '<p class="empty">No roles matched today. That is a real signal about '
-        'the market, not a bug &mdash; check back tomorrow.</p>')
+    confirmed = [r for r in records if r.get("tier") == "confirmed"]
+    possible = [r for r in records if r.get("tier") != "confirmed"]
+
+    def section(title, note, items):
+        if not items:
+            return ""
+        rows = "\n".join(_row(r) for r in items)
+        return (f'<h2 class="sec">{_e(title)} <span>{len(items)}</span></h2>'
+                f'<p class="note">{_e(note)}</p>\n<ul>\n{rows}\n    </ul>')
+
+    body = (section("Entry level", "Explicitly advertised as a graduate, "
+                    "placement, internship or junior role, or asking for under "
+                    "two years of experience.", confirmed)
+            + section("Possibly open to juniors", "These state no seniority "
+                      "either way \u2014 no junior label, but nothing marking them "
+                      "senior. Worth a look; read before you apply.", possible))
+    if not records:
+        body = ('<p class="empty">No roles matched today. That is a real signal '
+                'about the market, not a bug &mdash; check back tomorrow.</p>')
 
     dots = "".join(
         f'<span class="dot{"" if h["ok"] else " bad"}" title="{_e(h.get("error") or "")}">'

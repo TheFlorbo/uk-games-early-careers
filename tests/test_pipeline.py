@@ -19,7 +19,8 @@ except ImportError:                 # otherwise fall back to the mini runner
 import sources                                    # noqa: E402
 import store                                      # noqa: E402
 import render                                     # noqa: E402
-from classify import classify, entry_level, is_uk, stated_years  # noqa: E402
+from classify import (CONFIRMED, POSSIBLE, classify, entry_level,
+                      is_relevant, is_uk, stated_years)  # noqa: E402
 
 CFG = yaml.safe_load((Path(__file__).parents[1] / "config.yml").read_text())
 
@@ -153,25 +154,62 @@ def test_years_extraction(text, expected):
     assert stated_years(text) == expected
 
 
-@pytest.mark.parametrize("title,desc,ok", [
-    ("Graduate Programmer", "8+ years experience", True),   # title wins
-    ("Junior Engineer", "", True),
-    ("Senior Gameplay Programmer", "", False),
-    ("Lead Designer", "", False),
-    ("Software Engineer", "5+ years of experience required", False),
-    ("Software Engineer", "1 year of experience", True),
-    ("Software Engineer", "", True),                        # unstated -> allow
-    ("QA Tester", "Experience level: Entry level", True),
-    ("Producer II", "", False),
+@pytest.mark.parametrize("title,desc,tier", [
+    ("Graduate Programmer", "8+ years experience", CONFIRMED),  # title wins
+    ("Junior Engineer", "", CONFIRMED),
+    ("Software Engineer", "1 year of experience", CONFIRMED),
+    ("QA Tester", "Experience level: Entry level", CONFIRMED),
+    ("Software Engineer", "", POSSIBLE),            # nothing either way
+    ("Senior Gameplay Programmer", "", None),
+    ("Lead Designer", "", None),
+    ("Software Engineer", "5+ years of experience required", None),
+    ("Producer II", "", None),
 ])
-def test_entry_level(title, desc, ok):
-    assert entry_level(title, desc, CFG)[0] is ok
+def test_entry_level(title, desc, tier):
+    assert entry_level(title, desc, CFG)[0] == tier
+
+
+@pytest.mark.parametrize("title", [
+    "Staff Software Engineer",          # the bug that let 10 roles through
+    "Staff Backend Engineer - Alerting",
+    "Staff Product Designer (12-Month FTC)",
+    "Head of Engineering",
+    "Engineering Manager",
+    "Principal Data Scientist",
+])
+def test_staff_and_senior_titles_are_rejected(title):
+    """Substring matching missed 'Staff Software Engineer'; word matching doesn't."""
+    assert entry_level(title, "", CFG)[0] is None
+
+
+def test_seniority_described_in_prose_is_rejected():
+    """54 of 59 real matches stated no years at all - prose is the real signal."""
+    assert entry_level("Software Engineer",
+                       "You have extensive experience with distributed systems.",
+                       CFG)[0] is None
+    assert entry_level("Software Engineer",
+                       "You will lead a team of engineers.", CFG)[0] is None
+
+
+@pytest.mark.parametrize("title,relevant", [
+    ("Data Analyst", True),
+    ("Software Engineer", True),
+    ("Gameplay Programmer", True),
+    ("Legal Counsel - Engine by Starling", False),   # matched 'engine' before
+    ("Treasury IRRBB Analyst", False),
+    ("Credit Analyst", False),
+    ("Revenue Analyst", False),
+    ("Digital Brand Designer", False),
+    ("Talent Acquisition Partner", False),
+])
+def test_relevance_excludes_non_technical_roles(title, relevant):
+    assert is_relevant(title, CFG) is relevant
 
 
 def test_highest_requirement_gates():
     """'5+ years C++, 2+ years Unreal' is a five-year role, not a two-year one."""
     desc = "You have 5+ years of professional experience. Nice: 2 years with Unreal."
-    assert entry_level("Engineer", desc, CFG)[0] is False
+    assert entry_level("Engineer", desc, CFG)[0] is None
 
 
 def test_full_classification_pass():
@@ -314,3 +352,45 @@ def test_probe_flags_smartrecruiters_zero_as_ambiguous(monkeypatch, capsys=None)
     assert dead == 0
     assert "unverifiable" in out          # smartrecruiters flagged
     assert "OK  greenhouse" in out        # greenhouse trusted
+
+
+# ----------------------------------------------------------------- dedupe --
+
+def _dup(uid, company, title, location, days, tier="possible"):
+    return {"uid": uid, "company": company, "title": title, "location": location,
+            "days_open": days, "repost_count": 0, "is_new": False, "tier": tier,
+            "level_reason": "r", "company_type": "adjacent", "url": "u",
+            "source": "workable"}
+
+
+def test_dedupe_collapses_same_role_across_cities():
+    """Starling posted 27 of 59 rows; most were one role in three cities."""
+    from scan import dedupe
+    out = dedupe([
+        _dup("workable:s:1", "Starling", "IAM Analyst", "London", 5),
+        _dup("workable:s:2", "Starling", "IAM Analyst", "Manchester", 12),
+        _dup("workable:s:3", "Starling", "IAM Analyst", "Southampton", 9),
+        _dup("workable:s:4", "Starling", "Android Engineer", "London", 3),
+    ])
+    assert len(out) == 2
+    iam = next(r for r in out if r["title"] == "IAM Analyst")
+    assert iam["location_count"] == 3
+    assert "London" in iam["location"] and "Manchester" in iam["location"]
+    # The role opened when the OLDEST of its postings appeared.
+    assert iam["days_open"] == 12
+
+
+def test_dedupe_keeps_the_stronger_tier():
+    from scan import dedupe
+    out = dedupe([
+        _dup("workable:s:1", "X", "Engineer", "London", 4, tier="possible"),
+        _dup("workable:s:2", "X", "Engineer", "Leeds", 4, tier="confirmed"),
+    ])
+    assert len(out) == 1 and out[0]["tier"] == "confirmed"
+
+
+def test_dedupe_is_deterministic():
+    from scan import dedupe
+    rows = [_dup("workable:s:2", "X", "Engineer", "Leeds", 4),
+            _dup("workable:s:1", "X", "Engineer", "London", 4)]
+    assert dedupe(rows)[0]["uid"] == dedupe(list(reversed(rows)))[0]["uid"]

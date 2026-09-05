@@ -26,11 +26,46 @@ def load_yaml(path: str) -> dict:
 
 
 def sort_key(rec: dict):
-    """Newest first, then games before adjacent, then alphabetical."""
-    return (rec.get("days_open", 999),
+    """Confirmed first, then newest, then games before adjacent."""
+    return (0 if rec.get("tier") == "confirmed" else 1,
+            rec.get("days_open", 999),
             0 if rec.get("company_type") == "games" else 1,
             rec.get("company", ""),
             rec.get("title", ""))
+
+
+def dedupe(records: list[dict]) -> list[dict]:
+    """Collapse the same role advertised in several cities into one row.
+
+    Starling Bank posts identical listings for London, Manchester and
+    Southampton; before this, 59 rows contained only 43 distinct roles and one
+    employer filled almost half the page.
+
+    Runs AFTER ageing so each posting is still tracked individually in state --
+    the merged row reports the oldest first-seen date, because that is when the
+    role actually opened.
+    """
+    groups: dict[tuple[str, str], list[dict]] = {}
+    for r in records:
+        key = (r.get("company", ""), " ".join(r.get("title", "").lower().split()))
+        groups.setdefault(key, []).append(r)
+
+    merged = []
+    for group in groups.values():
+        group.sort(key=lambda r: r["uid"])          # deterministic canonical row
+        head = dict(group[0])
+        locations = sorted({r.get("location", "") for r in group if r.get("location")})
+        head["location"] = " · ".join(locations)
+        head["location_count"] = len(locations)
+        head["days_open"] = max(r.get("days_open", 0) for r in group)
+        head["repost_count"] = max(r.get("repost_count", 0) for r in group)
+        head["is_new"] = all(r.get("is_new") for r in group)
+        if any(r.get("tier") == "confirmed" for r in group):
+            head["tier"] = "confirmed"
+            head["level_reason"] = next(r["level_reason"] for r in group
+                                        if r.get("tier") == "confirmed")
+        merged.append(head)
+    return merged
 
 
 def probe(companies: dict) -> int:
@@ -180,12 +215,17 @@ def main() -> int:
     # Hide anything that has been open longer than we think is useful.
     limit = cfg["site"]["drop_after_days"]
     records = [r for r in records if r["days_open"] <= limit]
+    before_dedupe = len(records)
+    records = dedupe(records)
     records.sort(key=sort_key)
     records = records[: cfg["site"]["max_listed"]]
 
+    confirmed = sum(1 for r in records if r.get("tier") == "confirmed")
     print(f"fetched {len(jobs)} postings from {len(health)} boards "
           f"({len(healthy)} healthy, {len(failed)} failed)")
-    print(f"after filtering: {len(records)} UK entry-level roles")
+    print(f"after filtering: {before_dedupe} matches -> {len(records)} distinct roles")
+    print(f"  {confirmed} confirmed entry level, "
+          f"{len(records) - confirmed} possible")
     new = sum(1 for r in records if r.get("is_new"))
     reposted = sum(1 for r in records if r.get("repost_count"))
     print(f"  {new} new since last run, {reposted} previously reposted")
