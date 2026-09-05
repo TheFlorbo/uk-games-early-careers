@@ -1,0 +1,4 @@
+# The scheduled job commits docs/ and state/ from a Linux runner, while you
+# work on Windows. Without normalising line endings, every automated commit
+# would show up as a whole-file diff and the two would fight forever.
+* text=auto eol=lf
