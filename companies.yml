@@ -1,0 +1,70 @@
+# Companies to watch, grouped by the ATS that hosts their public job board.
+#
+# Every entry below was verified against the live endpoint on 2026-09-05.
+# Entries showing 0 jobs at the time are real boards with nothing open — keep
+# them, they fill up.
+#
+# ADDING A COMPANY
+#   Don't guess. Run:   python scan.py --find "Company Name"
+#   It tries every plausible slug against all five ATSs and prints a line you
+#   can paste straight in here. If nothing is found, the company either hosts
+#   its own careers page or uses an ATS this tool doesn't support yet.
+#
+#   Then re-run:        python scan.py --probe
+#
+#   type: games    -> a games studio or publisher
+#   type: adjacent -> not games, but a realistic route in
+#
+# NOTE ON SMARTRECRUITERS: it returns an empty list rather than a 404 for an
+# unknown company, so "0 jobs" there does NOT confirm the slug. Verify by
+# opening jobs.smartrecruiters.com/<slug> in a browser before adding one.
+
+greenhouse:
+  - { slug: rockstargames,    name: "Rockstar Games",        type: games }
+  - { slug: mediatonic,       name: "Mediatonic",            type: games }
+  - { slug: monzo,            name: "Monzo",                 type: adjacent }
+  - { slug: wise,             name: "Wise",                  type: adjacent }
+  - { slug: gocardless,       name: "GoCardless",            type: adjacent }
+  - { slug: skyscanner,       name: "Skyscanner",            type: adjacent }
+  - { slug: cleo,             name: "Cleo",                  type: adjacent }
+  - { slug: complyadvantage,  name: "ComplyAdvantage",       type: adjacent }
+  - { slug: equalexperts,     name: "Equal Experts",         type: adjacent }
+  - { slug: grafanalabs,      name: "Grafana Labs",          type: adjacent }
+  - { slug: elastic,          name: "Elastic",               type: adjacent }
+  - { slug: cloudflare,       name: "Cloudflare",            type: adjacent }
+  - { slug: ancoris,          name: "Ancoris",               type: adjacent }
+
+lever:
+  - { slug: jagex,            name: "Jagex",                 type: games }
+  - { slug: moonpig,          name: "Moonpig",               type: adjacent }
+  - { slug: farfetch,         name: "Farfetch",              type: adjacent }
+  - { slug: scottlogic,       name: "Scott Logic",           type: adjacent }
+
+ashby:
+  - { slug: improbable,       name: "Improbable",            type: games }
+  - { slug: marshmallow,      name: "Marshmallow",           type: adjacent }
+  - { slug: trainline,        name: "Trainline",             type: adjacent }
+  - { slug: zego,             name: "Zego",                  type: adjacent }
+  - { slug: deliveroo,        name: "Deliveroo",             type: adjacent }
+
+smartrecruiters:
+  - { slug: asos,             name: "ASOS",                  type: adjacent }
+  - { slug: caci,             name: "CACI",                  type: adjacent }
+  - { slug: johnlewispartnership, name: "John Lewis Partnership", type: adjacent }
+  - { slug: version1,         name: "Version 1",             type: adjacent }
+
+workable:
+  - { slug: payload-studios,  name: "Payload Studios",       type: games }
+  - { slug: lockwood-publishing, name: "Lockwood Publishing", type: games }
+  - { slug: starling-bank,    name: "Starling Bank",         type: adjacent }
+
+# --- Removed after probing on 2026-09-05 (all 404) -------------------------
+# These studios do not use the ATS guessed, and several host their own careers
+# pages. Worth retrying with --find, since studios migrate ATS regularly:
+#   Splash Damage, Frontier Developments, Space Ape, Hutch, Tripledot,
+#   Bossa Studios, Dovetail Games, Rebellion, Supermassive Games, Roll7,
+#   Kwalee, Sharkmob, Fireproof Games, Polystream, Build A Rocket Boy,
+#   Coatsink, Radical Forge, Studio Gobo
+#
+# Also removed as unverifiable (SmartRecruiters returned empty, slug unproven):
+#   Ubisoft, SEGA Europe, Keywords Studios

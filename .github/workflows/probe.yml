@@ -1,0 +1,25 @@
+name: Probe company slugs
+
+# Run this from the Actions tab whenever you add companies to companies.yml.
+# It checks every configured slug against the live ATS endpoint and prints
+# which are real, so you can delete the dead ones. It writes nothing.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Probe every configured slug
+        run: python scan.py --probe
+        continue-on-error: true      # dead slugs are the expected finding
+      - name: Dry run against live endpoints
+        run: python scan.py --dry-run
+        continue-on-error: true

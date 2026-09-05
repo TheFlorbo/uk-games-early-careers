@@ -1,0 +1,207 @@
+# Public feed configuration.
+# Everything here is editable without touching code.
+
+site:
+  title: "UK Games & Tech — Early Careers"
+  tagline: "Entry-level roles for people trying to get into games, including the adjacent software and data jobs that get you there."
+  base_url: "https://theflorbo.github.io/uk-games-early-careers"
+  max_listed: 250          # cap on jobs shown on the page
+  drop_after_days: 90      # stop showing roles older than this
+
+# --- Relevance -------------------------------------------------------------
+# A job must match at least one discipline keyword (in its title) to appear.
+# This keeps a studio's finance and HR roles out of a technical feed.
+disciplines:
+  - engineer
+  - developer
+  - programmer
+  - programming
+  - software
+  - gameplay
+  - graphics
+  - rendering
+  - engine
+  - tools
+  - technical artist
+  - tech artist
+  - animator
+  - animation
+  - level design
+  - game design
+  - designer
+  - vfx
+  - shader
+  - qa
+  - quality assurance
+  - test
+  - data
+  - analyst
+  - analytics
+  - machine learning
+  - backend
+  - back end
+  - frontend
+  - front end
+  - full stack
+  - fullstack
+  - devops
+  - platform
+  - infrastructure
+  - cloud
+  - security
+  - it support
+
+# --- Entry level detection -------------------------------------------------
+entry_level:
+  # Explicit junior signals in the title. Any match = accepted regardless of
+  # years-of-experience text (grad schemes often say "0-2 years").
+  positive_title:
+    - intern
+    - internship
+    - placement
+    - industrial placement
+    - year in industry
+    - sandwich year
+    - graduate
+    - grad scheme
+    - new grad
+    - junior
+    - jnr
+    - entry level
+    - entry-level
+    - trainee
+    - apprentice
+    - apprenticeship
+    - assistant
+
+  # Seniority signals. Any match = rejected outright.
+  negative_title:
+    - senior
+    - "snr"
+    - "sr."
+    - " sr "
+    - lead
+    - principal
+    - staff engineer
+    - head of
+    - director
+    - manager
+    - architect
+    - expert
+    - chief
+    - "vp "
+    - vice president
+    - " ii"
+    - " iii"
+    - " iv"
+    - specialist
+    - consultant
+
+  # If a role has no explicit junior signal, reject it when the highest stated
+  # experience requirement is at or above this many years.
+  max_years_experience: 2
+
+# --- UK filter -------------------------------------------------------------
+location:
+  uk_markers:
+    - united kingdom
+    - " uk"
+    - "uk "
+    - "(uk)"
+    - england
+    - scotland
+    - wales
+    - northern ireland
+    - britain
+  uk_cities:
+    - london
+    - manchester
+    - brighton
+    - guildford
+    - cambridge
+    - oxford
+    - bristol
+    - leamington
+    - warwick
+    - birmingham
+    - nottingham
+    - sheffield
+    - leeds
+    - liverpool
+    - newcastle
+    - sunderland
+    - dundee
+    - edinburgh
+    - glasgow
+    - belfast
+    - cardiff
+    - southampton
+    - portsmouth
+    - norwich
+    - york
+    - derby
+    - runcorn
+    - farnborough
+    - slough
+    - reading
+    - staines
+    - windsor
+    - royal leamington spa
+  # If any of these appear, the role is not UK - checked before uk_cities so
+  # that "London, Ontario" and "Cambridge, MA" are correctly excluded.
+  exclude_markers:
+    - united states
+    - "usa"
+    - " us)"
+    - canada
+    - ontario
+    - quebec
+    - australia
+    - new zealand
+    - singapore
+    - japan
+    - china
+    - india
+    - germany
+    - france
+    - spain
+    - italy
+    - poland
+    - sweden
+    - finland
+    - denmark
+    - norway
+    - netherlands
+    - belgium
+    - ireland
+    - dublin
+    - portugal
+    - romania
+    - ukraine
+    - brazil
+    - mexico
+    - texas
+    - california
+    - "ny)"
+    - ", ma"
+    - ", ca"
+    - ", tx"
+    - ", wa"
+    - ", ga"
+    - seattle
+    - austin
+    - montreal
+    - vancouver
+    - toronto
+    - berlin
+    - paris
+    - warsaw
+    - stockholm
+    - helsinki
+    - amsterdam
+    - barcelona
+    - madrid
+    - lisbon
+    - tokyo
+    - shanghai
+    - bucharest

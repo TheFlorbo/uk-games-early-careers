@@ -1,0 +1,134 @@
+{
+ "jobs": [
+  {
+   "uid": "greenhouse:gh:1",
+   "title": "Graduate Gameplay Programmer",
+   "company": "GH Studio",
+   "company_type": "games",
+   "location": "London, UK",
+   "url": "https://boards.greenhouse.io/x/jobs/1",
+   "source": "greenhouse",
+   "description": "Join us. No prior industry experience required.",
+   "posted_at": "2026-08-20"
+  },
+  {
+   "uid": "greenhouse:gh:2",
+   "title": "Senior Engine Programmer",
+   "company": "GH Studio",
+   "company_type": "games",
+   "location": "Guildford, UK",
+   "url": "https://boards.greenhouse.io/x/jobs/2",
+   "source": "greenhouse",
+   "description": "8+ years of professional experience.",
+   "posted_at": "2026-07-01"
+  },
+  {
+   "uid": "lever:lv:abc",
+   "title": "Junior Tools Engineer",
+   "company": "LV Studio",
+   "company_type": "games",
+   "location": "Manchester",
+   "url": "https://jobs.lever.co/x/abc",
+   "source": "lever",
+   "description": "Work on our editor tooling.\n1 year of commercial experience",
+   "posted_at": "2026-08-19"
+  },
+  {
+   "uid": "lever:lv:def",
+   "title": "Gameplay Engineer",
+   "company": "LV Studio",
+   "company_type": "games",
+   "location": "London, Ontario",
+   "url": "https://jobs.lever.co/x/def",
+   "source": "lever",
+   "description": "Canada based.",
+   "posted_at": "2026-08-19"
+  },
+  {
+   "uid": "ashby:as:u1",
+   "title": "Software Engineer, Graphics",
+   "company": "AS Studio",
+   "company_type": "games",
+   "location": "Bristol",
+   "url": "https://jobs.ashbyhq.com/x/u1",
+   "source": "ashby",
+   "description": "You will have 5+ years of experience in C++.",
+   "posted_at": "2026-09-01"
+  },
+  {
+   "uid": "ashby:as:u2",
+   "title": "Office Manager",
+   "company": "AS Studio",
+   "company_type": "games",
+   "location": "Bristol",
+   "url": "https://jobs.ashbyhq.com/x/u2",
+   "source": "ashby",
+   "description": "",
+   "posted_at": "2026-09-01"
+  },
+  {
+   "uid": "smartrecruiters:sr:sr1",
+   "title": "QA Tester",
+   "company": "SR Studio",
+   "company_type": "games",
+   "location": "Newcastle, uk",
+   "url": "https://jobs.smartrecruiters.com/sr/sr1",
+   "source": "smartrecruiters",
+   "description": "Experience level: Entry level",
+   "posted_at": "2026-08-15"
+  },
+  {
+   "uid": "workable:wk:AAA111",
+   "title": "Placement - Data Analyst",
+   "company": "WK Ltd",
+   "company_type": "adjacent",
+   "location": "Leeds, United Kingdom",
+   "url": "https://apply.workable.com/x/j/AAA111/",
+   "source": "workable",
+   "description": "A 12 month industrial placement. No experience needed.",
+   "posted_at": "2026-08-28"
+  }
+ ],
+ "health": [
+  {
+   "ats": "greenhouse",
+   "slug": "gh",
+   "name": "GH Studio",
+   "ok": true,
+   "count": 2,
+   "error": ""
+  },
+  {
+   "ats": "lever",
+   "slug": "lv",
+   "name": "LV Studio",
+   "ok": true,
+   "count": 2,
+   "error": ""
+  },
+  {
+   "ats": "ashby",
+   "slug": "as",
+   "name": "AS Studio",
+   "ok": true,
+   "count": 2,
+   "error": ""
+  },
+  {
+   "ats": "smartrecruiters",
+   "slug": "sr",
+   "name": "SR Studio",
+   "ok": true,
+   "count": 1,
+   "error": ""
+  },
+  {
+   "ats": "workable",
+   "slug": "wk",
+   "name": "WK Ltd",
+   "ok": true,
+   "count": 1,
+   "error": ""
+  }
+ ]
+}
