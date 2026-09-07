@@ -1,24 +1,7 @@
 {
- "generated": "2026-09-07T04:15:29.563978+00:00",
- "count": 23,
+ "generated": "2026-09-07T14:11:08.000265+00:00",
+ "count": 22,
  "jobs": [
-  {
-   "uid": "lever:moonpig:822a13c6-a16d-404f-9f6c-816f7714303d",
-   "title": "Junior Graphic Designer",
-   "company": "Moonpig",
-   "company_type": "adjacent",
-   "location": "London",
-   "url": "https://jobs.lever.co/moonpig/822a13c6-a16d-404f-9f6c-816f7714303d",
-   "source": "lever",
-   "posted_at": "2026-09-04",
-   "tier": "confirmed",
-   "level_reason": "title says 'junior'",
-   "is_new": false,
-   "first_seen": "2026-09-04",
-   "days_open": 3,
-   "repost_count": 0,
-   "location_count": 1
-  },
   {
    "uid": "workable:starling-bank:B465795049",
    "title": "Junior Information Security Analyst (GRC) - Engine by Starling",
