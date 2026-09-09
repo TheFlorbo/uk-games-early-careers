@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-09T04:22:18.715034+00:00",
- "count": 22,
+ "generated": "2026-09-09T12:54:03.000584+00:00",
+ "count": 24,
  "jobs": [
   {
    "uid": "workable:starling-bank:B465795049",
@@ -33,6 +33,40 @@
    "is_new": false,
    "first_seen": "2026-07-29",
    "days_open": 42,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "lever:scottlogic:46628ab4-a3ec-45e7-98a4-921cdd57a3ca",
+   "title": "Data Engineer",
+   "company": "Scott Logic",
+   "company_type": "adjacent",
+   "location": "Bristol",
+   "url": "https://jobs.lever.co/scottlogic/46628ab4-a3ec-45e7-98a4-921cdd57a3ca",
+   "source": "lever",
+   "posted_at": "2026-09-09",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-09-09",
+   "days_open": 0,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "ashby:trainline:d3f05d01-d762-4cbc-b3c4-bd7a5f293363",
+   "title": "Embedded Data Engineer - ML",
+   "company": "Trainline",
+   "company_type": "adjacent",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/trainline/d3f05d01-d762-4cbc-b3c4-bd7a5f293363",
+   "source": "ashby",
+   "posted_at": "2026-09-09",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-09-09",
+   "days_open": 0,
    "repost_count": 0,
    "location_count": 1
   },

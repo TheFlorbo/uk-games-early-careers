@@ -95,6 +95,12 @@
   "last_seen": "2026-09-09",
   "repost_count": 0
  },
+ "ashby:trainline:d3f05d01-d762-4cbc-b3c4-bd7a5f293363": {
+  "first_seen": "2026-09-09",
+  "gone_since": null,
+  "last_seen": "2026-09-09",
+  "repost_count": 0
+ },
  "greenhouse:gocardless:7996584": {
   "first_seen": "2026-08-25",
   "gone_since": null,
@@ -195,6 +201,12 @@
   "first_seen": "2026-09-04",
   "gone_since": "2026-09-07",
   "last_seen": "2026-09-07",
+  "repost_count": 0
+ },
+ "lever:scottlogic:46628ab4-a3ec-45e7-98a4-921cdd57a3ca": {
+  "first_seen": "2026-09-09",
+  "gone_since": null,
+  "last_seen": "2026-09-09",
   "repost_count": 0
  },
  "lever:scottlogic:b428ebae-812e-4034-aa54-652621b2c2c9": {
