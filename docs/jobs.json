@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-10T12:51:41.063543+00:00",
- "count": 28,
+ "generated": "2026-09-10T19:03:59.117864+00:00",
+ "count": 27,
  "jobs": [
   {
    "uid": "ashby:trainline:83d9f888-d262-4ec2-a69c-dbbeadb685e0",
@@ -13,28 +13,11 @@
    "posted_at": "2026-09-10",
    "tier": "confirmed",
    "level_reason": "title says 'junior'",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-09-10",
    "days_open": 0,
    "repost_count": 0,
    "location_count": 1
-  },
-  {
-   "uid": "workable:starling-bank:B465795049",
-   "title": "Junior Information Security Analyst (GRC) - Engine by Starling",
-   "company": "Starling Bank",
-   "company_type": "adjacent",
-   "location": "London, England, United Kingdom \u00b7 Manchester, England, United Kingdom \u00b7 Southampton, England, United Kingdom",
-   "url": "https://apply.workable.com/j/B465795049",
-   "source": "workable",
-   "posted_at": "2026-09-01",
-   "tier": "confirmed",
-   "level_reason": "title says 'junior'",
-   "is_new": false,
-   "first_seen": "2026-09-01",
-   "days_open": 9,
-   "repost_count": 0,
-   "location_count": 3
   },
   {
    "uid": "greenhouse:grafanalabs:5999673004",
