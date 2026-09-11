@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-11T04:18:46.791190+00:00",
- "count": 27,
+ "generated": "2026-09-11T12:46:15.589434+00:00",
+ "count": 28,
  "jobs": [
   {
    "uid": "ashby:trainline:83d9f888-d262-4ec2-a69c-dbbeadb685e0",
@@ -33,6 +33,23 @@
    "is_new": false,
    "first_seen": "2026-07-29",
    "days_open": 44,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "workable:starling-bank:63FE82645E",
+   "title": "Finance Analyst",
+   "company": "Starling Bank",
+   "company_type": "adjacent",
+   "location": "London, England, United Kingdom",
+   "url": "https://apply.workable.com/j/63FE82645E",
+   "source": "workable",
+   "posted_at": "2026-09-11",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-09-11",
+   "days_open": 0,
    "repost_count": 0,
    "location_count": 1
   },
