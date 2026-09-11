@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T19:06:29.629751+00:00",
+ "generated": "2026-09-11T22:25:41.624270+00:00",
  "count": 29,
  "jobs": [
   {
@@ -13,7 +13,7 @@
    "posted_at": "2026-09-11",
    "tier": "confirmed",
    "level_reason": "title says 'intern'",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-09-11",
    "days_open": 0,
    "repost_count": 0,
@@ -64,7 +64,7 @@
    "posted_at": "2026-09-11",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-09-11",
    "days_open": 0,
    "repost_count": 0,
