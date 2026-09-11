@@ -1,7 +1,24 @@
 {
- "generated": "2026-09-11T12:46:15.589434+00:00",
- "count": 28,
+ "generated": "2026-09-11T19:06:29.629751+00:00",
+ "count": 29,
  "jobs": [
+  {
+   "uid": "greenhouse:monzo:8146695",
+   "title": "Finance Internal Controls Analyst",
+   "company": "Monzo",
+   "company_type": "adjacent",
+   "location": "Cardiff, London or Remote (UK)",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8146695",
+   "source": "greenhouse",
+   "posted_at": "2026-09-11",
+   "tier": "confirmed",
+   "level_reason": "title says 'intern'",
+   "is_new": true,
+   "first_seen": "2026-09-11",
+   "days_open": 0,
+   "repost_count": 0,
+   "location_count": 1
+  },
   {
    "uid": "ashby:trainline:83d9f888-d262-4ec2-a69c-dbbeadb685e0",
    "title": "Junior .NET Engineer",
@@ -37,6 +54,23 @@
    "location_count": 1
   },
   {
+   "uid": "smartrecruiters:asos:744000149061580",
+   "title": "Security Analyst",
+   "company": "ASOS",
+   "company_type": "adjacent",
+   "location": "London, England, gb",
+   "url": "https://jobs.smartrecruiters.com/asos/744000149061580",
+   "source": "smartrecruiters",
+   "posted_at": "2026-09-11",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-09-11",
+   "days_open": 0,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
    "uid": "workable:starling-bank:63FE82645E",
    "title": "Finance Analyst",
    "company": "Starling Bank",
@@ -47,7 +81,7 @@
    "posted_at": "2026-09-11",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-09-11",
    "days_open": 0,
    "repost_count": 0,
@@ -271,23 +305,6 @@
    "is_new": false,
    "first_seen": "2026-08-11",
    "days_open": 31,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "smartrecruiters:asos:744000140909419",
-   "title": "Security Analyst",
-   "company": "ASOS",
-   "company_type": "adjacent",
-   "location": "London, England, gb",
-   "url": "https://jobs.smartrecruiters.com/asos/744000140909419",
-   "source": "smartrecruiters",
-   "posted_at": "2026-07-31",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-07-31",
-   "days_open": 42,
    "repost_count": 0,
    "location_count": 1
   },

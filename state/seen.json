@@ -191,6 +191,12 @@
   "last_seen": "2026-09-05",
   "repost_count": 0
  },
+ "greenhouse:monzo:8146695": {
+  "first_seen": "2026-09-11",
+  "gone_since": null,
+  "last_seen": "2026-09-11",
+  "repost_count": 0
+ },
  "greenhouse:rockstargames:7618407003": {
   "first_seen": "2026-08-11",
   "gone_since": null,
@@ -235,7 +241,7 @@
  },
  "smartrecruiters:asos:744000140909419": {
   "first_seen": "2026-07-31",
-  "gone_since": null,
+  "gone_since": "2026-09-11",
   "last_seen": "2026-09-11",
   "repost_count": 0
  },
@@ -247,6 +253,12 @@
  },
  "smartrecruiters:asos:744000146981519": {
   "first_seen": "2026-09-02",
+  "gone_since": null,
+  "last_seen": "2026-09-11",
+  "repost_count": 0
+ },
+ "smartrecruiters:asos:744000149061580": {
+  "first_seen": "2026-09-11",
   "gone_since": null,
   "last_seen": "2026-09-11",
   "repost_count": 0
