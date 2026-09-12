@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T22:25:41.624270+00:00",
+ "generated": "2026-09-12T04:18:05.093891+00:00",
  "count": 29,
  "jobs": [
   {
@@ -15,7 +15,7 @@
    "level_reason": "title says 'intern'",
    "is_new": false,
    "first_seen": "2026-09-11",
-   "days_open": 0,
+   "days_open": 1,
    "repost_count": 0,
    "location_count": 1
   },
@@ -32,7 +32,7 @@
    "level_reason": "title says 'junior'",
    "is_new": false,
    "first_seen": "2026-09-10",
-   "days_open": 1,
+   "days_open": 2,
    "repost_count": 0,
    "location_count": 1
   },
@@ -49,7 +49,7 @@
    "level_reason": "asks for only 1 year(s)",
    "is_new": false,
    "first_seen": "2026-07-29",
-   "days_open": 44,
+   "days_open": 45,
    "repost_count": 0,
    "location_count": 1
   },
@@ -66,7 +66,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-11",
-   "days_open": 0,
+   "days_open": 1,
    "repost_count": 0,
    "location_count": 1
   },
@@ -83,7 +83,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-11",
-   "days_open": 0,
+   "days_open": 1,
    "repost_count": 0,
    "location_count": 1
   },
@@ -100,7 +100,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 2,
+   "days_open": 3,
    "repost_count": 0,
    "location_count": 1
   },
@@ -117,7 +117,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 2,
+   "days_open": 3,
    "repost_count": 0,
    "location_count": 1
   },
@@ -134,7 +134,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 2,
+   "days_open": 3,
    "repost_count": 0,
    "location_count": 2
   },
@@ -151,7 +151,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 2,
+   "days_open": 3,
    "repost_count": 0,
    "location_count": 1
   },
@@ -168,7 +168,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 2,
+   "days_open": 3,
    "repost_count": 0,
    "location_count": 1
   },
@@ -185,7 +185,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-02",
-   "days_open": 9,
+   "days_open": 10,
    "repost_count": 0,
    "location_count": 1
   },
@@ -202,7 +202,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-01",
-   "days_open": 10,
+   "days_open": 11,
    "repost_count": 0,
    "location_count": 1
   },
@@ -219,7 +219,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-08-25",
-   "days_open": 17,
+   "days_open": 18,
    "repost_count": 0,
    "location_count": 1
   },
@@ -236,7 +236,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-08-24",
-   "days_open": 18,
+   "days_open": 19,
    "repost_count": 0,
    "location_count": 3
   },
@@ -253,7 +253,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-08-21",
-   "days_open": 21,
+   "days_open": 22,
    "repost_count": 0,
    "location_count": 1
   },
@@ -270,7 +270,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-08-18",
-   "days_open": 24,
+   "days_open": 25,
    "repost_count": 0,
    "location_count": 1
   },
@@ -287,7 +287,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-08-11",
-   "days_open": 31,
+   "days_open": 32,
    "repost_count": 0,
    "location_count": 1
   },
@@ -304,7 +304,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-08-11",
-   "days_open": 31,
+   "days_open": 32,
    "repost_count": 0,
    "location_count": 1
   },
@@ -321,7 +321,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-07-30",
-   "days_open": 43,
+   "days_open": 44,
    "repost_count": 0,
    "location_count": 3
   },
@@ -338,7 +338,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-07-28",
-   "days_open": 45,
+   "days_open": 46,
    "repost_count": 0,
    "location_count": 1
   },
@@ -355,7 +355,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-07-15",
-   "days_open": 58,
+   "days_open": 59,
    "repost_count": 0,
    "location_count": 3
   },
@@ -372,7 +372,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-08-06",
-   "days_open": 58,
+   "days_open": 59,
    "repost_count": 0,
    "location_count": 1
   },
@@ -389,7 +389,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-07-10",
-   "days_open": 63,
+   "days_open": 64,
    "repost_count": 0,
    "location_count": 3
   },
@@ -406,7 +406,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-07-10",
-   "days_open": 63,
+   "days_open": 64,
    "repost_count": 0,
    "location_count": 3
   },
@@ -423,7 +423,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-07-08",
-   "days_open": 65,
+   "days_open": 66,
    "repost_count": 0,
    "location_count": 3
   },
@@ -440,7 +440,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-07-08",
-   "days_open": 65,
+   "days_open": 66,
    "repost_count": 0,
    "location_count": 1
   },
@@ -457,7 +457,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-07-07",
-   "days_open": 66,
+   "days_open": 67,
    "repost_count": 0,
    "location_count": 1
   },
@@ -474,7 +474,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-06-29",
-   "days_open": 74,
+   "days_open": 75,
    "repost_count": 0,
    "location_count": 1
   },
@@ -491,7 +491,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-06-26",
-   "days_open": 77,
+   "days_open": 78,
    "repost_count": 0,
    "location_count": 1
   }
