@@ -61,13 +61,13 @@
  },
  "ashby:trainline:3a1b4ef1-88d8-423e-9360-00ab6566c81d": {
   "first_seen": "2026-08-06",
-  "gone_since": null,
+  "gone_since": "2026-09-15",
   "last_seen": "2026-09-15",
   "repost_count": 0
  },
  "ashby:trainline:47140c35-7e05-416d-9820-ff2e57d49cb9": {
   "first_seen": "2026-05-06",
-  "gone_since": null,
+  "gone_since": "2026-09-15",
   "last_seen": "2026-09-15",
   "repost_count": 0
  },
@@ -97,7 +97,7 @@
  },
  "ashby:trainline:cd73d520-cb7b-4175-9151-8afb9df52250": {
   "first_seen": "2026-07-15",
-  "gone_since": null,
+  "gone_since": "2026-09-15",
   "last_seen": "2026-09-15",
   "repost_count": 0
  },
@@ -121,7 +121,7 @@
  },
  "greenhouse:grafanalabs:5999673004": {
   "first_seen": "2026-07-29",
-  "gone_since": null,
+  "gone_since": "2026-09-15",
   "last_seen": "2026-09-15",
   "repost_count": 0
  },
@@ -223,7 +223,7 @@
  },
  "lever:moonpig:fc3b9db9-906b-4586-bef3-6398a0d8c42c": {
   "first_seen": "2026-09-09",
-  "gone_since": null,
+  "gone_since": "2026-09-15",
   "last_seen": "2026-09-15",
   "repost_count": 0
  },

@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-15T13:24:29.261482+00:00",
- "count": 27,
+ "generated": "2026-09-15T19:39:07.722806+00:00",
+ "count": 24,
  "jobs": [
   {
    "uid": "ashby:trainline:83d9f888-d262-4ec2-a69c-dbbeadb685e0",
@@ -20,23 +20,6 @@
    "location_count": 1
   },
   {
-   "uid": "greenhouse:grafanalabs:5999673004",
-   "title": "Backend Engineer - Platform - Stacks | UK | Remote",
-   "company": "Grafana Labs",
-   "company_type": "adjacent",
-   "location": "United Kingdom (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5999673004",
-   "source": "greenhouse",
-   "posted_at": "2026-07-29",
-   "tier": "confirmed",
-   "level_reason": "asks for only 1 year(s)",
-   "is_new": false,
-   "first_seen": "2026-07-29",
-   "days_open": 48,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
    "uid": "ashby:trainline:ff2a60ee-c19d-4a36-bb5d-2145c8de6f37",
    "title": "IT Support Analyst",
    "company": "Trainline",
@@ -47,7 +30,7 @@
    "posted_at": "2026-09-15",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-09-15",
    "days_open": 0,
    "repost_count": 0,
@@ -67,23 +50,6 @@
    "is_new": false,
    "first_seen": "2026-09-11",
    "days_open": 4,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "lever:moonpig:fc3b9db9-906b-4586-bef3-6398a0d8c42c",
-   "title": "Data Scientist",
-   "company": "Moonpig",
-   "company_type": "adjacent",
-   "location": "London",
-   "url": "https://jobs.lever.co/moonpig/fc3b9db9-906b-4586-bef3-6398a0d8c42c",
-   "source": "lever",
-   "posted_at": "2026-09-09",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-09-09",
-   "days_open": 6,
    "repost_count": 0,
    "location_count": 1
   },
@@ -324,23 +290,6 @@
    "days_open": 62,
    "repost_count": 0,
    "location_count": 3
-  },
-  {
-   "uid": "ashby:trainline:3a1b4ef1-88d8-423e-9360-00ab6566c81d",
-   "title": "Engineer - .NET Backend (London)",
-   "company": "Trainline",
-   "company_type": "adjacent",
-   "location": "London",
-   "url": "https://jobs.ashbyhq.com/trainline/3a1b4ef1-88d8-423e-9360-00ab6566c81d",
-   "source": "ashby",
-   "posted_at": "2026-08-06",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-08-06",
-   "days_open": 62,
-   "repost_count": 0,
-   "location_count": 1
   },
   {
    "uid": "workable:starling-bank:CD477D17B9",
