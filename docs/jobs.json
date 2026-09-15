@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T04:37:16.232300+00:00",
+ "generated": "2026-09-15T13:24:29.261482+00:00",
  "count": 27,
  "jobs": [
   {
@@ -33,6 +33,23 @@
    "is_new": false,
    "first_seen": "2026-07-29",
    "days_open": 48,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "ashby:trainline:ff2a60ee-c19d-4a36-bb5d-2145c8de6f37",
+   "title": "IT Support Analyst",
+   "company": "Trainline",
+   "company_type": "adjacent",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/trainline/ff2a60ee-c19d-4a36-bb5d-2145c8de6f37",
+   "source": "ashby",
+   "posted_at": "2026-09-15",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-09-15",
+   "days_open": 0,
    "repost_count": 0,
    "location_count": 1
   },
@@ -290,23 +307,6 @@
    "days_open": 47,
    "repost_count": 0,
    "location_count": 3
-  },
-  {
-   "uid": "ashby:trainline:3a113ca5-d660-4f02-95e6-befb86fed2cd",
-   "title": "Data Scientist",
-   "company": "Trainline",
-   "company_type": "adjacent",
-   "location": "London",
-   "url": "https://jobs.ashbyhq.com/trainline/3a113ca5-d660-4f02-95e6-befb86fed2cd",
-   "source": "ashby",
-   "posted_at": "2026-07-28",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-07-28",
-   "days_open": 49,
-   "repost_count": 0,
-   "location_count": 1
   },
   {
    "uid": "workable:starling-bank:9FD955F9D9",

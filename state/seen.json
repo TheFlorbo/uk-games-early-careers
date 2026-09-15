@@ -55,7 +55,7 @@
  },
  "ashby:trainline:3a113ca5-d660-4f02-95e6-befb86fed2cd": {
   "first_seen": "2026-07-28",
-  "gone_since": null,
+  "gone_since": "2026-09-15",
   "last_seen": "2026-09-15",
   "repost_count": 0
  },
@@ -103,6 +103,12 @@
  },
  "ashby:trainline:d3f05d01-d762-4cbc-b3c4-bd7a5f293363": {
   "first_seen": "2026-09-09",
+  "gone_since": null,
+  "last_seen": "2026-09-15",
+  "repost_count": 0
+ },
+ "ashby:trainline:ff2a60ee-c19d-4a36-bb5d-2145c8de6f37": {
+  "first_seen": "2026-09-15",
   "gone_since": null,
   "last_seen": "2026-09-15",
   "repost_count": 0
@@ -229,7 +235,7 @@
  },
  "lever:scottlogic:b428ebae-812e-4034-aa54-652621b2c2c9": {
   "first_seen": "2026-05-20",
-  "gone_since": null,
+  "gone_since": "2026-09-15",
   "last_seen": "2026-09-15",
   "repost_count": 0
  },
