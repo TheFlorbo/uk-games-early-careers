@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-16T13:23:39.514477+00:00",
- "count": 24,
+ "generated": "2026-09-16T19:30:59.767765+00:00",
+ "count": 25,
  "jobs": [
   {
    "uid": "ashby:trainline:83d9f888-d262-4ec2-a69c-dbbeadb685e0",
@@ -16,6 +16,23 @@
    "is_new": false,
    "first_seen": "2026-09-10",
    "days_open": 6,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "ashby:zego:19bb7706-6373-45cf-8795-4a022f7648df",
+   "title": "Software Engineer",
+   "company": "Zego",
+   "company_type": "adjacent",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/zego/19bb7706-6373-45cf-8795-4a022f7648df",
+   "source": "ashby",
+   "posted_at": "2026-09-16",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-09-16",
+   "days_open": 0,
    "repost_count": 0,
    "location_count": 1
   },
