@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-17T13:19:32.453749+00:00",
- "count": 24,
+ "generated": "2026-09-17T19:40:45.012798+00:00",
+ "count": 23,
  "jobs": [
   {
    "uid": "ashby:trainline:83d9f888-d262-4ec2-a69c-dbbeadb685e0",
@@ -30,7 +30,7 @@
    "posted_at": "2026-09-17",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-09-17",
    "days_open": 0,
    "repost_count": 0,
@@ -203,23 +203,6 @@
    "is_new": false,
    "first_seen": "2026-08-21",
    "days_open": 27,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "greenhouse:grafanalabs:6144059004",
-   "title": "Software Engineer - Platform Metal | UK | Remote",
-   "company": "Grafana Labs",
-   "company_type": "adjacent",
-   "location": "United Kingdom (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6144059004",
-   "source": "greenhouse",
-   "posted_at": "2026-08-18",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-08-18",
-   "days_open": 30,
    "repost_count": 0,
    "location_count": 1
   },
