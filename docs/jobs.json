@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-17T04:37:58.844429+00:00",
- "count": 25,
+ "generated": "2026-09-17T13:19:32.453749+00:00",
+ "count": 24,
  "jobs": [
   {
    "uid": "ashby:trainline:83d9f888-d262-4ec2-a69c-dbbeadb685e0",
@@ -16,6 +16,23 @@
    "is_new": false,
    "first_seen": "2026-09-10",
    "days_open": 7,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "smartrecruiters:asos:744000150056119",
+   "title": "Designer - WW Jersey - ASOS Design",
+   "company": "ASOS",
+   "company_type": "adjacent",
+   "location": "London, England, gb",
+   "url": "https://jobs.smartrecruiters.com/asos/744000150056119",
+   "source": "smartrecruiters",
+   "posted_at": "2026-09-17",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-09-17",
+   "days_open": 0,
    "repost_count": 0,
    "location_count": 1
   },
@@ -135,40 +152,6 @@
    "is_new": false,
    "first_seen": "2026-09-09",
    "days_open": 8,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "smartrecruiters:asos:744000146981519",
-   "title": "Associate Data Engineer",
-   "company": "ASOS",
-   "company_type": "adjacent",
-   "location": "London, England, gb",
-   "url": "https://jobs.smartrecruiters.com/asos/744000146981519",
-   "source": "smartrecruiters",
-   "posted_at": "2026-09-02",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-09-02",
-   "days_open": 15,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "smartrecruiters:asos:744000146672009",
-   "title": "Designer - WW ASOS Design",
-   "company": "ASOS",
-   "company_type": "adjacent",
-   "location": "London, England, gb",
-   "url": "https://jobs.smartrecruiters.com/asos/744000146672009",
-   "source": "smartrecruiters",
-   "posted_at": "2026-09-01",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-09-01",
-   "days_open": 16,
    "repost_count": 0,
    "location_count": 1
   },

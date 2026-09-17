@@ -259,18 +259,24 @@
  },
  "smartrecruiters:asos:744000146672009": {
   "first_seen": "2026-09-01",
-  "gone_since": null,
+  "gone_since": "2026-09-17",
   "last_seen": "2026-09-17",
   "repost_count": 0
  },
  "smartrecruiters:asos:744000146981519": {
   "first_seen": "2026-09-02",
-  "gone_since": null,
+  "gone_since": "2026-09-17",
   "last_seen": "2026-09-17",
   "repost_count": 0
  },
  "smartrecruiters:asos:744000149061580": {
   "first_seen": "2026-09-11",
+  "gone_since": null,
+  "last_seen": "2026-09-17",
+  "repost_count": 0
+ },
+ "smartrecruiters:asos:744000150056119": {
+  "first_seen": "2026-09-17",
   "gone_since": null,
   "last_seen": "2026-09-17",
   "repost_count": 0
