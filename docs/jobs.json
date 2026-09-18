@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-18T04:23:24.974073+00:00",
- "count": 23,
+ "generated": "2026-09-18T12:53:55.273248+00:00",
+ "count": 24,
  "jobs": [
   {
    "uid": "ashby:trainline:83d9f888-d262-4ec2-a69c-dbbeadb685e0",
@@ -16,6 +16,23 @@
    "is_new": false,
    "first_seen": "2026-09-10",
    "days_open": 8,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "greenhouse:monzo:7115379",
+   "title": "Android Engineer",
+   "company": "Monzo",
+   "company_type": "adjacent",
+   "location": "Cardiff, London or Remote (UK)",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/7115379",
+   "source": "greenhouse",
+   "posted_at": "2026-09-18",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-09-18",
+   "days_open": 0,
    "repost_count": 0,
    "location_count": 1
   },
