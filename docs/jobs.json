@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-18T18:59:37.662953+00:00",
- "count": 23,
+ "generated": "2026-09-18T22:27:18.404609+00:00",
+ "count": 24,
  "jobs": [
   {
    "uid": "ashby:trainline:83d9f888-d262-4ec2-a69c-dbbeadb685e0",
@@ -16,6 +16,23 @@
    "is_new": false,
    "first_seen": "2026-09-10",
    "days_open": 8,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "smartrecruiters:asos:744000150451712",
+   "title": "Threat & Exposure Management Analyst",
+   "company": "ASOS",
+   "company_type": "adjacent",
+   "location": "London, England, gb",
+   "url": "https://jobs.smartrecruiters.com/asos/744000150451712",
+   "source": "smartrecruiters",
+   "posted_at": "2026-09-18",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-09-18",
+   "days_open": 0,
    "repost_count": 0,
    "location_count": 1
   },
