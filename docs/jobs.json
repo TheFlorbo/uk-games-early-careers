@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-21T04:37:43.205615+00:00",
- "count": 24,
+ "generated": "2026-09-21T15:02:18.926012+00:00",
+ "count": 25,
  "jobs": [
   {
    "uid": "ashby:trainline:83d9f888-d262-4ec2-a69c-dbbeadb685e0",
@@ -16,6 +16,23 @@
    "is_new": false,
    "first_seen": "2026-09-10",
    "days_open": 11,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "smartrecruiters:asos:744000150689619",
+   "title": "Associate Analytics Engineer",
+   "company": "ASOS",
+   "company_type": "adjacent",
+   "location": "London, England, gb",
+   "url": "https://jobs.smartrecruiters.com/asos/744000150689619",
+   "source": "smartrecruiters",
+   "posted_at": "2026-09-21",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-09-21",
+   "days_open": 0,
    "repost_count": 0,
    "location_count": 1
   },
