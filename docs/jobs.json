@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T15:02:18.926012+00:00",
+ "generated": "2026-09-21T20:22:40.721684+00:00",
  "count": 25,
  "jobs": [
   {
@@ -30,7 +30,7 @@
    "posted_at": "2026-09-21",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-09-21",
    "days_open": 0,
    "repost_count": 0,
