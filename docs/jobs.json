@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-23T04:29:40.705772+00:00",
- "count": 25,
+ "generated": "2026-09-23T13:33:32.812367+00:00",
+ "count": 24,
  "jobs": [
   {
    "uid": "ashby:trainline:83d9f888-d262-4ec2-a69c-dbbeadb685e0",
@@ -203,23 +203,6 @@
    "is_new": false,
    "first_seen": "2026-09-09",
    "days_open": 14,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "greenhouse:gocardless:7996584",
-   "title": "Site Reliability Engineer",
-   "company": "GoCardless",
-   "company_type": "adjacent",
-   "location": "London, UK",
-   "url": "https://job-boards.greenhouse.io/gocardless/jobs/7996584",
-   "source": "greenhouse",
-   "posted_at": "2026-09-10",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-08-25",
-   "days_open": 29,
    "repost_count": 0,
    "location_count": 1
   },
