@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-24T13:29:02.608716+00:00",
- "count": 24,
+ "generated": "2026-09-24T19:56:38.528799+00:00",
+ "count": 25,
  "jobs": [
   {
    "uid": "ashby:trainline:ad9adf75-4f55-4304-a6db-f166721b87f4",
@@ -27,6 +27,23 @@
    "location": "London, England, gb",
    "url": "https://jobs.smartrecruiters.com/asos/744000151573749",
    "source": "smartrecruiters",
+   "posted_at": "2026-09-24",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": false,
+   "first_seen": "2026-09-24",
+   "days_open": 0,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "ashby:zego:aea14f06-fe74-46c8-aa0f-1827f762412c",
+   "title": "Telematics Data Scientist",
+   "company": "Zego",
+   "company_type": "adjacent",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/zego/aea14f06-fe74-46c8-aa0f-1827f762412c",
+   "source": "ashby",
    "posted_at": "2026-09-24",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
