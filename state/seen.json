@@ -227,6 +227,18 @@
   "last_seen": "2026-09-14",
   "repost_count": 0
  },
+ "greenhouse:monzo:8156261": {
+  "first_seen": "2026-09-28",
+  "gone_since": null,
+  "last_seen": "2026-09-28",
+  "repost_count": 0
+ },
+ "greenhouse:monzo:8232726": {
+  "first_seen": "2026-09-28",
+  "gone_since": null,
+  "last_seen": "2026-09-28",
+  "repost_count": 0
+ },
  "greenhouse:rockstargames:7618407003": {
   "first_seen": "2026-08-11",
   "gone_since": null,
@@ -313,7 +325,7 @@
  },
  "smartrecruiters:asos:744000151573749": {
   "first_seen": "2026-09-24",
-  "gone_since": null,
+  "gone_since": "2026-09-28",
   "last_seen": "2026-09-28",
   "repost_count": 0
  },
