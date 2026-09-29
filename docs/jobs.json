@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-29T10:34:55.676691+00:00",
- "count": 23,
+ "generated": "2026-09-29T18:00:01.602680+00:00",
+ "count": 22,
  "jobs": [
   {
    "uid": "greenhouse:monzo:8232726",
@@ -239,23 +239,6 @@
    "days_open": 36,
    "repost_count": 0,
    "location_count": 3
-  },
-  {
-   "uid": "greenhouse:rockstargames:7618407003",
-   "title": "Animation Tools Programmer (All Levels)",
-   "company": "Rockstar Games",
-   "company_type": "games",
-   "location": "Edinburgh, Scotland, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/rockstargames/jobs/7618407003",
-   "source": "greenhouse",
-   "posted_at": "2026-09-10",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-08-11",
-   "days_open": 49,
-   "repost_count": 0,
-   "location_count": 1
   },
   {
    "uid": "greenhouse:rockstargames:7683473003",
