@@ -97,7 +97,7 @@
  },
  "ashby:trainline:bca4f7f5-5019-4d38-92e1-d94e236d428b": {
   "first_seen": "2026-06-29",
-  "gone_since": null,
+  "gone_since": "2026-09-30",
   "last_seen": "2026-09-30",
   "repost_count": 0
  },
@@ -235,6 +235,12 @@
  },
  "greenhouse:monzo:8232726": {
   "first_seen": "2026-09-28",
+  "gone_since": null,
+  "last_seen": "2026-09-30",
+  "repost_count": 0
+ },
+ "greenhouse:monzo:8242603": {
+  "first_seen": "2026-09-30",
   "gone_since": null,
   "last_seen": "2026-09-30",
   "repost_count": 0
