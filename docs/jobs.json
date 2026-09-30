@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-30T14:50:46.818863+00:00",
- "count": 23,
+ "generated": "2026-09-30T20:44:08.080847+00:00",
+ "count": 24,
  "jobs": [
   {
    "uid": "greenhouse:monzo:8232726",
@@ -61,6 +61,23 @@
    "location": "Cardiff, London or Remote (UK)",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8242603",
    "source": "greenhouse",
+   "posted_at": "2026-09-30",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": false,
+   "first_seen": "2026-09-30",
+   "days_open": 0,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "ashby:trainline:874365d1-fc59-4e29-a92f-cbc98dc06b63",
+   "title": "Data Analyst",
+   "company": "Trainline",
+   "company_type": "adjacent",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/trainline/874365d1-fc59-4e29-a92f-cbc98dc06b63",
+   "source": "ashby",
    "posted_at": "2026-09-30",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
