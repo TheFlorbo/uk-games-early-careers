@@ -127,7 +127,7 @@
  },
  "ashby:zego:19bb7706-6373-45cf-8795-4a022f7648df": {
   "first_seen": "2026-09-16",
-  "gone_since": null,
+  "gone_since": "2026-10-01",
   "last_seen": "2026-10-01",
   "repost_count": 0
  },
@@ -271,9 +271,9 @@
  },
  "lever:moonpig:fc3b9db9-906b-4586-bef3-6398a0d8c42c": {
   "first_seen": "2026-09-09",
-  "gone_since": "2026-09-15",
-  "last_seen": "2026-09-15",
-  "repost_count": 0
+  "gone_since": null,
+  "last_seen": "2026-10-01",
+  "repost_count": 1
  },
  "lever:scottlogic:46628ab4-a3ec-45e7-98a4-921cdd57a3ca": {
   "first_seen": "2026-09-09",
@@ -445,7 +445,7 @@
  },
  "workable:starling-bank:CD477D17B9": {
   "first_seen": "2026-07-10",
-  "gone_since": null,
+  "gone_since": "2026-10-01",
   "last_seen": "2026-10-01",
   "repost_count": 0
  },

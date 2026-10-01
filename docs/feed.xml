@@ -5,7 +5,7 @@
     <link>https://theflorbo.github.io/uk-games-early-careers/</link>
     <description>Entry-level roles for people trying to get into games, including the adjacent software and data jobs that get you there.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 01 Oct 2026 05:31:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 15:21:16 +0000</lastBuildDate>
     <item>
       <title>Associate Data Scientist - Intern - Monzo</title>
       <link>https://job-boards.greenhouse.io/monzo/jobs/8232726</link>
@@ -25,7 +25,7 @@
       <description>Trainline &amp;mdash; London &amp;mdash; open 8 days</description>
     </item>
     <item>
-      <title>Data Scientist, L30 - Monzo</title>
+      <title>Data Scientist - Monzo</title>
       <link>https://job-boards.greenhouse.io/monzo/jobs/8242603</link>
       <guid isPermaLink="false">greenhouse:monzo:8242603</guid>
       <description>Monzo &amp;mdash; Cardiff, London or Remote (UK) &amp;mdash; open 1 day</description>
@@ -55,12 +55,6 @@
       <description>ASOS &amp;mdash; London, England, gb &amp;mdash; open 14 days</description>
     </item>
     <item>
-      <title>Software Engineer - Zego</title>
-      <link>https://jobs.ashbyhq.com/zego/19bb7706-6373-45cf-8795-4a022f7648df</link>
-      <guid isPermaLink="false">ashby:zego:19bb7706-6373-45cf-8795-4a022f7648df</guid>
-      <description>Zego &amp;mdash; London &amp;mdash; open 15 days</description>
-    </item>
-    <item>
       <title>IT Support Analyst - Trainline</title>
       <link>https://jobs.ashbyhq.com/trainline/ff2a60ee-c19d-4a36-bb5d-2145c8de6f37</link>
       <guid isPermaLink="false">ashby:trainline:ff2a60ee-c19d-4a36-bb5d-2145c8de6f37</guid>
@@ -71,6 +65,12 @@
       <link>https://jobs.smartrecruiters.com/asos/744000149061580</link>
       <guid isPermaLink="false">smartrecruiters:asos:744000149061580</guid>
       <description>ASOS &amp;mdash; London, England, gb &amp;mdash; open 20 days</description>
+    </item>
+    <item>
+      <title>Data Scientist - Moonpig</title>
+      <link>https://jobs.lever.co/moonpig/fc3b9db9-906b-4586-bef3-6398a0d8c42c</link>
+      <guid isPermaLink="false">lever:moonpig:fc3b9db9-906b-4586-bef3-6398a0d8c42c</guid>
+      <description>Moonpig &amp;mdash; London &amp;mdash; open 22 days &amp;mdash; reposted 1x</description>
     </item>
     <item>
       <title>Data Engineer - Scott Logic</title>
@@ -119,12 +119,6 @@
       <link>https://apply.workable.com/j/9FD955F9D9</link>
       <guid isPermaLink="false">workable:starling-bank:9FD955F9D9</guid>
       <description>Starling Bank &amp;mdash; London, England, United Kingdom · Manchester, England, United Kingdom · Southampton, England, United Kingdom &amp;mdash; open 78 days</description>
-    </item>
-    <item>
-      <title>Information Security Analyst - Vulnerability Management - Starling Bank</title>
-      <link>https://apply.workable.com/j/CD477D17B9</link>
-      <guid isPermaLink="false">workable:starling-bank:CD477D17B9</guid>
-      <description>Starling Bank &amp;mdash; London, England, United Kingdom · Manchester, England, United Kingdom · Southampton, England, United Kingdom &amp;mdash; open 83 days</description>
     </item>
     <item>
       <title>Software Engineer - Vulnerability Management - Starling Bank</title>

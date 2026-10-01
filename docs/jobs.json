@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-01T05:31:19.856146+00:00",
- "count": 24,
+ "generated": "2026-10-01T15:21:16.521676+00:00",
+ "count": 23,
  "jobs": [
   {
    "uid": "greenhouse:monzo:8232726",
@@ -55,13 +55,13 @@
   },
   {
    "uid": "greenhouse:monzo:8242603",
-   "title": "Data Scientist, L30",
+   "title": "Data Scientist",
    "company": "Monzo",
    "company_type": "adjacent",
    "location": "Cardiff, London or Remote (UK)",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8242603",
    "source": "greenhouse",
-   "posted_at": "2026-09-30",
+   "posted_at": "2026-10-01",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
    "is_new": false,
@@ -139,23 +139,6 @@
    "location_count": 1
   },
   {
-   "uid": "ashby:zego:19bb7706-6373-45cf-8795-4a022f7648df",
-   "title": "Software Engineer",
-   "company": "Zego",
-   "company_type": "adjacent",
-   "location": "London",
-   "url": "https://jobs.ashbyhq.com/zego/19bb7706-6373-45cf-8795-4a022f7648df",
-   "source": "ashby",
-   "posted_at": "2026-09-16",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-09-16",
-   "days_open": 15,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
    "uid": "ashby:trainline:ff2a60ee-c19d-4a36-bb5d-2145c8de6f37",
    "title": "IT Support Analyst",
    "company": "Trainline",
@@ -187,6 +170,23 @@
    "first_seen": "2026-09-11",
    "days_open": 20,
    "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "lever:moonpig:fc3b9db9-906b-4586-bef3-6398a0d8c42c",
+   "title": "Data Scientist",
+   "company": "Moonpig",
+   "company_type": "adjacent",
+   "location": "London",
+   "url": "https://jobs.lever.co/moonpig/fc3b9db9-906b-4586-bef3-6398a0d8c42c",
+   "source": "lever",
+   "posted_at": "2026-09-09",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": false,
+   "first_seen": "2026-09-09",
+   "days_open": 22,
+   "repost_count": 1,
    "location_count": 1
   },
   {
@@ -322,23 +322,6 @@
    "is_new": false,
    "first_seen": "2026-07-15",
    "days_open": 78,
-   "repost_count": 0,
-   "location_count": 3
-  },
-  {
-   "uid": "workable:starling-bank:CD477D17B9",
-   "title": "Information Security Analyst - Vulnerability Management",
-   "company": "Starling Bank",
-   "company_type": "adjacent",
-   "location": "London, England, United Kingdom \u00b7 Manchester, England, United Kingdom \u00b7 Southampton, England, United Kingdom",
-   "url": "https://apply.workable.com/j/CD477D17B9",
-   "source": "workable",
-   "posted_at": "2026-07-10",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-07-10",
-   "days_open": 83,
    "repost_count": 0,
    "location_count": 3
   },
