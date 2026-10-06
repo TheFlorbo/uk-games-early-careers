@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-06T01:15:30.290507+00:00",
- "count": 20,
+ "generated": "2026-10-06T11:10:36.784979+00:00",
+ "count": 21,
  "jobs": [
   {
    "uid": "greenhouse:monzo:8232726",
@@ -33,6 +33,23 @@
    "is_new": false,
    "first_seen": "2026-09-28",
    "days_open": 8,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "greenhouse:monzo:8195436",
+   "title": "Regulatory Reporting Analyst",
+   "company": "Monzo",
+   "company_type": "adjacent",
+   "location": "London",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8195436",
+   "source": "greenhouse",
+   "posted_at": "2026-10-06",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-10-06",
+   "days_open": 0,
    "repost_count": 0,
    "location_count": 1
   },
