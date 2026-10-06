@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-06T11:10:36.784979+00:00",
- "count": 21,
+ "generated": "2026-10-06T18:15:34.197047+00:00",
+ "count": 22,
  "jobs": [
   {
    "uid": "greenhouse:monzo:8232726",
@@ -47,11 +47,28 @@
    "posted_at": "2026-10-06",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-10-06",
    "days_open": 0,
    "repost_count": 0,
    "location_count": 1
+  },
+  {
+   "uid": "workable:starling-bank:DB88F15D29",
+   "title": "Database Reliability Engineer",
+   "company": "Starling Bank",
+   "company_type": "adjacent",
+   "location": "London, England, United Kingdom \u00b7 Manchester, England, United Kingdom \u00b7 Southampton, England, United Kingdom",
+   "url": "https://apply.workable.com/j/DB88F15D29",
+   "source": "workable",
+   "posted_at": "2026-10-06",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": false,
+   "first_seen": "2026-10-06",
+   "days_open": 0,
+   "repost_count": 0,
+   "location_count": 3
   },
   {
    "uid": "greenhouse:monzo:8242603",
