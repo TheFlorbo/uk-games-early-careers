@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-07T15:28:07.941981+00:00",
- "count": 18,
+ "generated": "2026-10-07T21:11:32.232031+00:00",
+ "count": 19,
  "jobs": [
   {
    "uid": "greenhouse:monzo:8232726",
@@ -44,6 +44,23 @@
    "location": "London, England, gb",
    "url": "https://jobs.smartrecruiters.com/asos/744000154054514",
    "source": "smartrecruiters",
+   "posted_at": "2026-10-07",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": false,
+   "first_seen": "2026-10-07",
+   "days_open": 0,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "ashby:trainline:23fb0d68-f4fe-487d-86d0-093650405932",
+   "title": "Android Engineer",
+   "company": "Trainline",
+   "company_type": "adjacent",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/trainline/23fb0d68-f4fe-487d-86d0-093650405932",
+   "source": "ashby",
    "posted_at": "2026-10-07",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
