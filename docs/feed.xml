@@ -5,7 +5,7 @@
     <link>https://theflorbo.github.io/uk-games-early-careers/</link>
     <description>Entry-level roles for people trying to get into games, including the adjacent software and data jobs that get you there.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 07 Oct 2026 05:36:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 15:28:07 +0000</lastBuildDate>
     <item>
       <title>Associate Data Scientist - Intern - Monzo</title>
       <link>https://job-boards.greenhouse.io/monzo/jobs/8232726</link>
@@ -19,6 +19,12 @@
       <description>Monzo &amp;mdash; London &amp;mdash; open 9 days</description>
     </item>
     <item>
+      <title>Associate Data Engineer - ASOS</title>
+      <link>https://jobs.smartrecruiters.com/asos/744000154054514</link>
+      <guid isPermaLink="false">smartrecruiters:asos:744000154054514</guid>
+      <description>ASOS &amp;mdash; London, England, gb &amp;mdash; new today</description>
+    </item>
+    <item>
       <title>Regulatory Reporting Analyst - Monzo</title>
       <link>https://job-boards.greenhouse.io/monzo/jobs/8195436</link>
       <guid isPermaLink="false">greenhouse:monzo:8195436</guid>
@@ -29,12 +35,6 @@
       <link>https://apply.workable.com/j/DB88F15D29</link>
       <guid isPermaLink="false">workable:starling-bank:DB88F15D29</guid>
       <description>Starling Bank &amp;mdash; London, England, United Kingdom · Manchester, England, United Kingdom · Southampton, England, United Kingdom &amp;mdash; open 1 day</description>
-    </item>
-    <item>
-      <title>Data Scientist - Monzo</title>
-      <link>https://job-boards.greenhouse.io/monzo/jobs/8242603</link>
-      <guid isPermaLink="false">greenhouse:monzo:8242603</guid>
-      <description>Monzo &amp;mdash; Cardiff, London or Remote (UK) &amp;mdash; open 7 days</description>
     </item>
     <item>
       <title>Data Analyst - Trainline</title>
@@ -103,12 +103,6 @@
       <description>Starling Bank &amp;mdash; London, England, United Kingdom · Manchester, England, United Kingdom · Southampton, England, United Kingdom &amp;mdash; open 44 days</description>
     </item>
     <item>
-      <title>Tools Programmer: Audio - Rockstar Games</title>
-      <link>https://job-boards.greenhouse.io/rockstargames/jobs/7683473003</link>
-      <guid isPermaLink="false">greenhouse:rockstargames:7683473003</guid>
-      <description>Rockstar Games &amp;mdash; Edinburgh, Scotland, United Kingdom &amp;mdash; open 57 days</description>
-    </item>
-    <item>
       <title>Software Engineer - Mobile Security - Starling Bank</title>
       <link>https://apply.workable.com/j/6F47B55F2F</link>
       <guid isPermaLink="false">workable:starling-bank:6F47B55F2F</guid>
@@ -119,12 +113,6 @@
       <link>https://apply.workable.com/j/9FD955F9D9</link>
       <guid isPermaLink="false">workable:starling-bank:9FD955F9D9</guid>
       <description>Starling Bank &amp;mdash; London, England, United Kingdom · Manchester, England, United Kingdom · Southampton, England, United Kingdom &amp;mdash; open 84 days</description>
-    </item>
-    <item>
-      <title>Software Engineer - Vulnerability Management - Starling Bank</title>
-      <link>https://apply.workable.com/j/CE9458EF8A</link>
-      <guid isPermaLink="false">workable:starling-bank:CE9458EF8A</guid>
-      <description>Starling Bank &amp;mdash; London, England, United Kingdom · Manchester, England, United Kingdom · Southampton, England, United Kingdom &amp;mdash; open 89 days</description>
     </item>
   </channel>
 </rss>

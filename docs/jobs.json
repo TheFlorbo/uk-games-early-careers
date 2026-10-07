@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-07T05:36:49.284144+00:00",
- "count": 20,
+ "generated": "2026-10-07T15:28:07.941981+00:00",
+ "count": 18,
  "jobs": [
   {
    "uid": "greenhouse:monzo:8232726",
@@ -37,6 +37,23 @@
    "location_count": 1
   },
   {
+   "uid": "smartrecruiters:asos:744000154054514",
+   "title": "Associate Data Engineer",
+   "company": "ASOS",
+   "company_type": "adjacent",
+   "location": "London, England, gb",
+   "url": "https://jobs.smartrecruiters.com/asos/744000154054514",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-07",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-10-07",
+   "days_open": 0,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
    "uid": "greenhouse:monzo:8195436",
    "title": "Regulatory Reporting Analyst",
    "company": "Monzo",
@@ -69,23 +86,6 @@
    "days_open": 1,
    "repost_count": 0,
    "location_count": 3
-  },
-  {
-   "uid": "greenhouse:monzo:8242603",
-   "title": "Data Scientist",
-   "company": "Monzo",
-   "company_type": "adjacent",
-   "location": "Cardiff, London or Remote (UK)",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/8242603",
-   "source": "greenhouse",
-   "posted_at": "2026-10-01",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-09-30",
-   "days_open": 7,
-   "repost_count": 0,
-   "location_count": 1
   },
   {
    "uid": "ashby:trainline:874365d1-fc59-4e29-a92f-cbc98dc06b63",
@@ -275,23 +275,6 @@
    "location_count": 3
   },
   {
-   "uid": "greenhouse:rockstargames:7683473003",
-   "title": "Tools Programmer: Audio",
-   "company": "Rockstar Games",
-   "company_type": "games",
-   "location": "Edinburgh, Scotland, United Kingdom",
-   "url": "https://job-boards.greenhouse.io/rockstargames/jobs/7683473003",
-   "source": "greenhouse",
-   "posted_at": "2026-08-11",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-08-11",
-   "days_open": 57,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
    "uid": "workable:starling-bank:6F47B55F2F",
    "title": "Software Engineer - Mobile Security",
    "company": "Starling Bank",
@@ -322,23 +305,6 @@
    "is_new": false,
    "first_seen": "2026-07-15",
    "days_open": 84,
-   "repost_count": 0,
-   "location_count": 3
-  },
-  {
-   "uid": "workable:starling-bank:CE9458EF8A",
-   "title": "Software Engineer - Vulnerability Management",
-   "company": "Starling Bank",
-   "company_type": "adjacent",
-   "location": "London, England, United Kingdom \u00b7 Manchester, England, United Kingdom \u00b7 Southampton, England, United Kingdom",
-   "url": "https://apply.workable.com/j/CE9458EF8A",
-   "source": "workable",
-   "posted_at": "2026-07-10",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-07-10",
-   "days_open": 89,
    "repost_count": 0,
    "location_count": 3
   }
