@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-06T23:43:34.530628+00:00",
- "count": 22,
+ "generated": "2026-10-07T05:36:49.284144+00:00",
+ "count": 20,
  "jobs": [
   {
    "uid": "greenhouse:monzo:8232726",
@@ -15,7 +15,7 @@
    "level_reason": "title says 'intern'",
    "is_new": false,
    "first_seen": "2026-09-28",
-   "days_open": 8,
+   "days_open": 9,
    "repost_count": 0,
    "location_count": 1
   },
@@ -32,7 +32,7 @@
    "level_reason": "title says 'intern'",
    "is_new": false,
    "first_seen": "2026-09-28",
-   "days_open": 8,
+   "days_open": 9,
    "repost_count": 0,
    "location_count": 1
   },
@@ -49,7 +49,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-06",
-   "days_open": 0,
+   "days_open": 1,
    "repost_count": 0,
    "location_count": 1
   },
@@ -66,7 +66,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-06",
-   "days_open": 0,
+   "days_open": 1,
    "repost_count": 0,
    "location_count": 3
   },
@@ -83,7 +83,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-30",
-   "days_open": 6,
+   "days_open": 7,
    "repost_count": 0,
    "location_count": 1
   },
@@ -100,7 +100,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-30",
-   "days_open": 6,
+   "days_open": 7,
    "repost_count": 0,
    "location_count": 1
   },
@@ -117,7 +117,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-24",
-   "days_open": 12,
+   "days_open": 13,
    "repost_count": 0,
    "location_count": 1
   },
@@ -134,7 +134,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-18",
-   "days_open": 18,
+   "days_open": 19,
    "repost_count": 0,
    "location_count": 1
   },
@@ -151,7 +151,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-17",
-   "days_open": 19,
+   "days_open": 20,
    "repost_count": 0,
    "location_count": 1
   },
@@ -168,7 +168,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-15",
-   "days_open": 21,
+   "days_open": 22,
    "repost_count": 0,
    "location_count": 1
   },
@@ -185,7 +185,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-11",
-   "days_open": 25,
+   "days_open": 26,
    "repost_count": 0,
    "location_count": 1
   },
@@ -202,7 +202,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 27,
+   "days_open": 28,
    "repost_count": 0,
    "location_count": 1
   },
@@ -219,7 +219,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 27,
+   "days_open": 28,
    "repost_count": 0,
    "location_count": 2
   },
@@ -236,7 +236,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 27,
+   "days_open": 28,
    "repost_count": 0,
    "location_count": 1
   },
@@ -253,7 +253,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 27,
+   "days_open": 28,
    "repost_count": 0,
    "location_count": 1
   },
@@ -270,7 +270,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-08-24",
-   "days_open": 43,
+   "days_open": 44,
    "repost_count": 0,
    "location_count": 3
   },
@@ -287,7 +287,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-08-11",
-   "days_open": 56,
+   "days_open": 57,
    "repost_count": 0,
    "location_count": 1
   },
@@ -304,7 +304,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-07-30",
-   "days_open": 68,
+   "days_open": 69,
    "repost_count": 0,
    "location_count": 3
   },
@@ -321,7 +321,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-07-15",
-   "days_open": 83,
+   "days_open": 84,
    "repost_count": 0,
    "location_count": 3
   },
@@ -338,43 +338,9 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-07-10",
-   "days_open": 88,
+   "days_open": 89,
    "repost_count": 0,
    "location_count": 3
-  },
-  {
-   "uid": "workable:starling-bank:0DA49B0B28",
-   "title": "Android Engineer",
-   "company": "Starling Bank",
-   "company_type": "adjacent",
-   "location": "London, England, United Kingdom \u00b7 Manchester, England, United Kingdom \u00b7 Southampton, England, United Kingdom",
-   "url": "https://apply.workable.com/j/0DA49B0B28",
-   "source": "workable",
-   "posted_at": "2026-07-08",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-07-08",
-   "days_open": 90,
-   "repost_count": 0,
-   "location_count": 3
-  },
-  {
-   "uid": "ashby:trainline:7c9c4568-4b40-4f55-b4f4-d186d9053203",
-   "title": "Machine Learning Engineer",
-   "company": "Trainline",
-   "company_type": "adjacent",
-   "location": "London",
-   "url": "https://jobs.ashbyhq.com/trainline/7c9c4568-4b40-4f55-b4f4-d186d9053203",
-   "source": "ashby",
-   "posted_at": "2026-07-08",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-07-08",
-   "days_open": 90,
-   "repost_count": 0,
-   "location_count": 1
   }
  ]
 }
