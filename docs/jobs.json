@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T21:11:32.232031+00:00",
+ "generated": "2026-10-08T05:45:12.762184+00:00",
  "count": 19,
  "jobs": [
   {
@@ -15,7 +15,7 @@
    "level_reason": "title says 'intern'",
    "is_new": false,
    "first_seen": "2026-09-28",
-   "days_open": 9,
+   "days_open": 10,
    "repost_count": 0,
    "location_count": 1
   },
@@ -32,7 +32,7 @@
    "level_reason": "title says 'intern'",
    "is_new": false,
    "first_seen": "2026-09-28",
-   "days_open": 9,
+   "days_open": 10,
    "repost_count": 0,
    "location_count": 1
   },
@@ -49,7 +49,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-07",
-   "days_open": 0,
+   "days_open": 1,
    "repost_count": 0,
    "location_count": 1
   },
@@ -64,9 +64,9 @@
    "posted_at": "2026-10-07",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-10-07",
-   "days_open": 0,
+   "days_open": 1,
    "repost_count": 0,
    "location_count": 1
   },
@@ -83,7 +83,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-06",
-   "days_open": 1,
+   "days_open": 2,
    "repost_count": 0,
    "location_count": 1
   },
@@ -100,7 +100,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-06",
-   "days_open": 1,
+   "days_open": 2,
    "repost_count": 0,
    "location_count": 3
   },
@@ -117,7 +117,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-30",
-   "days_open": 7,
+   "days_open": 8,
    "repost_count": 0,
    "location_count": 1
   },
@@ -134,7 +134,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-24",
-   "days_open": 13,
+   "days_open": 14,
    "repost_count": 0,
    "location_count": 1
   },
@@ -151,7 +151,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-18",
-   "days_open": 19,
+   "days_open": 20,
    "repost_count": 0,
    "location_count": 1
   },
@@ -168,7 +168,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-17",
-   "days_open": 20,
+   "days_open": 21,
    "repost_count": 0,
    "location_count": 1
   },
@@ -185,7 +185,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-15",
-   "days_open": 22,
+   "days_open": 23,
    "repost_count": 0,
    "location_count": 1
   },
@@ -202,7 +202,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-11",
-   "days_open": 26,
+   "days_open": 27,
    "repost_count": 0,
    "location_count": 1
   },
@@ -219,7 +219,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 28,
+   "days_open": 29,
    "repost_count": 0,
    "location_count": 1
   },
@@ -236,7 +236,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 28,
+   "days_open": 29,
    "repost_count": 0,
    "location_count": 2
   },
@@ -253,7 +253,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 28,
+   "days_open": 29,
    "repost_count": 0,
    "location_count": 1
   },
@@ -270,7 +270,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 28,
+   "days_open": 29,
    "repost_count": 0,
    "location_count": 1
   },
@@ -287,7 +287,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-08-24",
-   "days_open": 44,
+   "days_open": 45,
    "repost_count": 0,
    "location_count": 3
   },
@@ -304,7 +304,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-07-30",
-   "days_open": 69,
+   "days_open": 70,
    "repost_count": 0,
    "location_count": 3
   },
@@ -321,7 +321,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-07-15",
-   "days_open": 84,
+   "days_open": 85,
    "repost_count": 0,
    "location_count": 3
   }
