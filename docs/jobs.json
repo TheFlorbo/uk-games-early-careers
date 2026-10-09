@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-09T05:49:30.079097+00:00",
- "count": 19,
+ "generated": "2026-10-09T15:11:46.546073+00:00",
+ "count": 18,
  "jobs": [
   {
    "uid": "greenhouse:monzo:8232726",
@@ -139,23 +139,6 @@
    "location_count": 1
   },
   {
-   "uid": "greenhouse:monzo:7115379",
-   "title": "Android Engineer",
-   "company": "Monzo",
-   "company_type": "adjacent",
-   "location": "Cardiff, London or Remote (UK)",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/7115379",
-   "source": "greenhouse",
-   "posted_at": "2026-10-02",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-09-18",
-   "days_open": 21,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
    "uid": "smartrecruiters:asos:744000150056119",
    "title": "Designer - WW Jersey - ASOS Design",
    "company": "ASOS",
@@ -170,6 +153,23 @@
    "first_seen": "2026-09-17",
    "days_open": 22,
    "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "ashby:zego:19bb7706-6373-45cf-8795-4a022f7648df",
+   "title": "Software Engineer",
+   "company": "Zego",
+   "company_type": "adjacent",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/zego/19bb7706-6373-45cf-8795-4a022f7648df",
+   "source": "ashby",
+   "posted_at": "2026-10-09",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": false,
+   "first_seen": "2026-09-16",
+   "days_open": 23,
+   "repost_count": 1,
    "location_count": 1
   },
   {
@@ -273,23 +273,6 @@
    "days_open": 30,
    "repost_count": 0,
    "location_count": 1
-  },
-  {
-   "uid": "workable:starling-bank:5C283BDF08",
-   "title": "Information Security Analyst - SecOps Detection",
-   "company": "Starling Bank",
-   "company_type": "adjacent",
-   "location": "London, England, United Kingdom \u00b7 Manchester, England, United Kingdom \u00b7 Southampton, England, United Kingdom",
-   "url": "https://apply.workable.com/j/5C283BDF08",
-   "source": "workable",
-   "posted_at": "2026-08-24",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-08-24",
-   "days_open": 46,
-   "repost_count": 0,
-   "location_count": 3
   },
   {
    "uid": "workable:starling-bank:6F47B55F2F",

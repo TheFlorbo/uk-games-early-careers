@@ -133,9 +133,9 @@
  },
  "ashby:zego:19bb7706-6373-45cf-8795-4a022f7648df": {
   "first_seen": "2026-09-16",
-  "gone_since": "2026-10-01",
-  "last_seen": "2026-10-01",
-  "repost_count": 0
+  "gone_since": null,
+  "last_seen": "2026-10-09",
+  "repost_count": 1
  },
  "ashby:zego:aea14f06-fe74-46c8-aa0f-1827f762412c": {
   "first_seen": "2026-09-24",
@@ -211,7 +211,7 @@
  },
  "greenhouse:monzo:7115379": {
   "first_seen": "2026-09-18",
-  "gone_since": null,
+  "gone_since": "2026-10-09",
   "last_seen": "2026-10-09",
   "repost_count": 0
  },
@@ -397,7 +397,7 @@
  },
  "workable:starling-bank:5C283BDF08": {
   "first_seen": "2026-08-24",
-  "gone_since": null,
+  "gone_since": "2026-10-09",
   "last_seen": "2026-10-09",
   "repost_count": 0
  },
