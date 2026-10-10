@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T20:44:36.563092+00:00",
+ "generated": "2026-10-10T05:32:17.855138+00:00",
  "count": 18,
  "jobs": [
   {
@@ -15,7 +15,7 @@
    "level_reason": "title says 'intern'",
    "is_new": false,
    "first_seen": "2026-09-28",
-   "days_open": 11,
+   "days_open": 12,
    "repost_count": 0,
    "location_count": 1
   },
@@ -32,7 +32,7 @@
    "level_reason": "title says 'intern'",
    "is_new": false,
    "first_seen": "2026-09-28",
-   "days_open": 11,
+   "days_open": 12,
    "repost_count": 0,
    "location_count": 1
   },
@@ -49,7 +49,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-07",
-   "days_open": 2,
+   "days_open": 3,
    "repost_count": 0,
    "location_count": 1
   },
@@ -66,7 +66,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-07",
-   "days_open": 2,
+   "days_open": 3,
    "repost_count": 0,
    "location_count": 1
   },
@@ -83,7 +83,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-06",
-   "days_open": 3,
+   "days_open": 4,
    "repost_count": 0,
    "location_count": 1
   },
@@ -100,7 +100,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-06",
-   "days_open": 3,
+   "days_open": 4,
    "repost_count": 0,
    "location_count": 3
   },
@@ -117,7 +117,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-30",
-   "days_open": 9,
+   "days_open": 10,
    "repost_count": 0,
    "location_count": 1
   },
@@ -134,7 +134,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-24",
-   "days_open": 15,
+   "days_open": 16,
    "repost_count": 0,
    "location_count": 1
   },
@@ -151,7 +151,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-17",
-   "days_open": 22,
+   "days_open": 23,
    "repost_count": 0,
    "location_count": 1
   },
@@ -168,7 +168,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-16",
-   "days_open": 23,
+   "days_open": 24,
    "repost_count": 1,
    "location_count": 1
   },
@@ -185,7 +185,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-15",
-   "days_open": 24,
+   "days_open": 25,
    "repost_count": 0,
    "location_count": 1
   },
@@ -202,7 +202,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-11",
-   "days_open": 28,
+   "days_open": 29,
    "repost_count": 0,
    "location_count": 1
   },
@@ -219,7 +219,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 30,
+   "days_open": 31,
    "repost_count": 0,
    "location_count": 1
   },
@@ -236,7 +236,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 30,
+   "days_open": 31,
    "repost_count": 0,
    "location_count": 2
   },
@@ -253,7 +253,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 30,
+   "days_open": 31,
    "repost_count": 0,
    "location_count": 1
   },
@@ -270,7 +270,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 30,
+   "days_open": 31,
    "repost_count": 0,
    "location_count": 1
   },
@@ -287,7 +287,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-07-30",
-   "days_open": 71,
+   "days_open": 72,
    "repost_count": 0,
    "location_count": 3
   },
@@ -304,7 +304,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-07-15",
-   "days_open": 86,
+   "days_open": 87,
    "repost_count": 0,
    "location_count": 3
   }
