@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-12T05:38:54.607950+00:00",
- "count": 18,
+ "generated": "2026-10-12T17:42:34.322791+00:00",
+ "count": 19,
  "jobs": [
   {
    "uid": "greenhouse:monzo:8232726",
@@ -33,6 +33,23 @@
    "is_new": false,
    "first_seen": "2026-09-28",
    "days_open": 14,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "lever:moonpig:abd9ffb3-521a-41a2-a7f6-b52e49160802",
+   "title": "Sustainability Analyst",
+   "company": "Moonpig",
+   "company_type": "adjacent",
+   "location": "London",
+   "url": "https://jobs.lever.co/moonpig/abd9ffb3-521a-41a2-a7f6-b52e49160802",
+   "source": "lever",
+   "posted_at": "2026-10-12",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-10-12",
+   "days_open": 0,
    "repost_count": 0,
    "location_count": 1
   },
