@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-13T11:38:22.878027+00:00",
- "count": 20,
+ "generated": "2026-10-13T19:10:49.267251+00:00",
+ "count": 22,
  "jobs": [
   {
    "uid": "ashby:trainline:529e124d-d65d-4aa2-bde3-be81750cc521",
@@ -13,7 +13,7 @@
    "posted_at": "2026-10-13",
    "tier": "confirmed",
    "level_reason": "title says 'junior'",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-10-13",
    "days_open": 0,
    "repost_count": 0,
@@ -50,6 +50,40 @@
    "is_new": false,
    "first_seen": "2026-09-28",
    "days_open": 15,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "smartrecruiters:asos:744000155183781",
+   "title": "Finance Analyst",
+   "company": "ASOS",
+   "company_type": "adjacent",
+   "location": "London, England, gb",
+   "url": "https://jobs.smartrecruiters.com/asos/744000155183781",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-13",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-10-13",
+   "days_open": 0,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "greenhouse:monzo:8059461",
+   "title": "Web Engineer",
+   "company": "Monzo",
+   "company_type": "adjacent",
+   "location": "Cardiff, London or Remote (UK)",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8059461",
+   "source": "greenhouse",
+   "posted_at": "2026-10-13",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-10-13",
+   "days_open": 0,
    "repost_count": 0,
    "location_count": 1
   },
