@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T19:10:49.267251+00:00",
+ "generated": "2026-10-13T23:41:34.819156+00:00",
  "count": 22,
  "jobs": [
   {
@@ -64,7 +64,7 @@
    "posted_at": "2026-10-13",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-10-13",
    "days_open": 0,
    "repost_count": 0,
@@ -81,7 +81,7 @@
    "posted_at": "2026-10-13",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-10-13",
    "days_open": 0,
    "repost_count": 0,
