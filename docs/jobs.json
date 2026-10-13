@@ -1,7 +1,24 @@
 {
- "generated": "2026-10-13T01:57:00.697331+00:00",
- "count": 19,
+ "generated": "2026-10-13T11:38:22.878027+00:00",
+ "count": 20,
  "jobs": [
+  {
+   "uid": "ashby:trainline:529e124d-d65d-4aa2-bde3-be81750cc521",
+   "title": "Junior Machine Learning Engineer",
+   "company": "Trainline",
+   "company_type": "adjacent",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/trainline/529e124d-d65d-4aa2-bde3-be81750cc521",
+   "source": "ashby",
+   "posted_at": "2026-10-13",
+   "tier": "confirmed",
+   "level_reason": "title says 'junior'",
+   "is_new": true,
+   "first_seen": "2026-10-13",
+   "days_open": 0,
+   "repost_count": 0,
+   "location_count": 1
+  },
   {
    "uid": "greenhouse:monzo:8232726",
    "title": "Associate Data Scientist - Intern",
