@@ -107,6 +107,12 @@
   "last_seen": "2026-10-14",
   "repost_count": 0
  },
+ "ashby:trainline:ab89587a-3e76-4ca2-b85e-7105637d8751": {
+  "first_seen": "2026-10-14",
+  "gone_since": null,
+  "last_seen": "2026-10-14",
+  "repost_count": 0
+ },
  "ashby:trainline:ad9adf75-4f55-4304-a6db-f166721b87f4": {
   "first_seen": "2026-09-23",
   "gone_since": "2026-10-05",
@@ -287,6 +293,12 @@
   "last_seen": "2026-10-07",
   "repost_count": 0
  },
+ "lever:moonpig:5f1932be-740a-422b-9bb9-430fcd3a621b": {
+  "first_seen": "2026-10-14",
+  "gone_since": null,
+  "last_seen": "2026-10-14",
+  "repost_count": 0
+ },
  "lever:moonpig:822a13c6-a16d-404f-9f6c-816f7714303d": {
   "first_seen": "2026-09-04",
   "gone_since": "2026-09-07",
@@ -463,7 +475,7 @@
  },
  "workable:starling-bank:9FD955F9D9": {
   "first_seen": "2026-07-15",
-  "gone_since": null,
+  "gone_since": "2026-10-14",
   "last_seen": "2026-10-14",
   "repost_count": 0
  },
@@ -505,6 +517,12 @@
  },
  "workable:starling-bank:DB88F15D29": {
   "first_seen": "2026-10-06",
+  "gone_since": null,
+  "last_seen": "2026-10-14",
+  "repost_count": 0
+ },
+ "workable:starling-bank:E989B54205": {
+  "first_seen": "2026-10-14",
   "gone_since": null,
   "last_seen": "2026-10-14",
   "repost_count": 0
