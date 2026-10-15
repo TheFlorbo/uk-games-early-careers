@@ -1,7 +1,24 @@
 {
- "generated": "2026-10-15T04:18:14.851629+00:00",
- "count": 24,
+ "generated": "2026-10-15T13:18:10.167860+00:00",
+ "count": 25,
  "jobs": [
+  {
+   "uid": "smartrecruiters:asos:744000155699529",
+   "title": "Entry Assistant Designer - Topshop",
+   "company": "ASOS",
+   "company_type": "adjacent",
+   "location": "London, England, gb",
+   "url": "https://jobs.smartrecruiters.com/asos/744000155699529",
+   "source": "smartrecruiters",
+   "posted_at": "2026-10-15",
+   "tier": "confirmed",
+   "level_reason": "title says 'assistant'",
+   "is_new": true,
+   "first_seen": "2026-10-15",
+   "days_open": 0,
+   "repost_count": 0,
+   "location_count": 1
+  },
   {
    "uid": "ashby:trainline:529e124d-d65d-4aa2-bde3-be81750cc521",
    "title": "Junior Machine Learning Engineer",
