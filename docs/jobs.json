@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-15T13:18:10.167860+00:00",
- "count": 25,
+ "generated": "2026-10-15T19:48:56.038607+00:00",
+ "count": 24,
  "jobs": [
   {
    "uid": "smartrecruiters:asos:744000155699529",
@@ -13,7 +13,7 @@
    "posted_at": "2026-10-15",
    "tier": "confirmed",
    "level_reason": "title says 'assistant'",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-10-15",
    "days_open": 0,
    "repost_count": 0,
@@ -152,23 +152,6 @@
    "is_new": false,
    "first_seen": "2026-10-13",
    "days_open": 2,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "lever:moonpig:abd9ffb3-521a-41a2-a7f6-b52e49160802",
-   "title": "Sustainability Analyst",
-   "company": "Moonpig",
-   "company_type": "adjacent",
-   "location": "London",
-   "url": "https://jobs.lever.co/moonpig/abd9ffb3-521a-41a2-a7f6-b52e49160802",
-   "source": "lever",
-   "posted_at": "2026-10-12",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-10-12",
-   "days_open": 3,
    "repost_count": 0,
    "location_count": 1
   },
