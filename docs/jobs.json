@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-15T19:48:56.038607+00:00",
- "count": 24,
+ "generated": "2026-10-15T22:59:05.009235+00:00",
+ "count": 25,
  "jobs": [
   {
    "uid": "smartrecruiters:asos:744000155699529",
@@ -67,6 +67,23 @@
    "is_new": false,
    "first_seen": "2026-09-28",
    "days_open": 17,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "ashby:marshmallow:27e7e5ca-6cf7-4c91-b922-a1cb792917e0",
+   "title": "Pricing Data Scientist",
+   "company": "Marshmallow",
+   "company_type": "adjacent",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/marshmallow/27e7e5ca-6cf7-4c91-b922-a1cb792917e0",
+   "source": "ashby",
+   "posted_at": "2026-10-15",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-10-15",
+   "days_open": 0,
    "repost_count": 0,
    "location_count": 1
   },
