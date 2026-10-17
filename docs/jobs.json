@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T12:05:48.664720+00:00",
+ "generated": "2026-10-17T18:21:03.917889+00:00",
  "count": 24,
  "jobs": [
   {
@@ -13,7 +13,7 @@
    "posted_at": "2026-10-17",
    "tier": "confirmed",
    "level_reason": "title says 'assistant'",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-10-17",
    "days_open": 0,
    "repost_count": 0,
