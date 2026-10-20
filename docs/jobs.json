@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T13:30:35.994939+00:00",
+ "generated": "2026-10-20T19:57:24.692990+00:00",
  "count": 23,
  "jobs": [
   {
@@ -259,7 +259,7 @@
   },
   {
    "uid": "ashby:zego:aea14f06-fe74-46c8-aa0f-1827f762412c",
-   "title": "Telematics Data Scientist",
+   "title": "Data Scientist",
    "company": "Zego",
    "company_type": "adjacent",
    "location": "London",
