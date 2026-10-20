@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-20T04:31:43.223029+00:00",
- "count": 24,
+ "generated": "2026-10-20T13:30:35.994939+00:00",
+ "count": 23,
  "jobs": [
   {
    "uid": "smartrecruiters:asos:744000156128539",
@@ -33,23 +33,6 @@
    "is_new": false,
    "first_seen": "2026-10-15",
    "days_open": 5,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "ashby:trainline:529e124d-d65d-4aa2-bde3-be81750cc521",
-   "title": "Junior Machine Learning Engineer",
-   "company": "Trainline",
-   "company_type": "adjacent",
-   "location": "London",
-   "url": "https://jobs.ashbyhq.com/trainline/529e124d-d65d-4aa2-bde3-be81750cc521",
-   "source": "ashby",
-   "posted_at": "2026-10-13",
-   "tier": "confirmed",
-   "level_reason": "title says 'junior'",
-   "is_new": false,
-   "first_seen": "2026-10-13",
-   "days_open": 7,
    "repost_count": 0,
    "location_count": 1
   },
