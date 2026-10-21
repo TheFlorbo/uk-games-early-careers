@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-21T13:40:03.526162+00:00",
- "count": 22,
+ "generated": "2026-10-21T20:01:58.580136+00:00",
+ "count": 21,
  "jobs": [
   {
    "uid": "smartrecruiters:asos:744000156128539",
@@ -81,7 +81,7 @@
    "posted_at": "2026-10-21",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-10-21",
    "days_open": 0,
    "repost_count": 0,
@@ -112,23 +112,6 @@
    "location": "Manchester",
    "url": "https://jobs.lever.co/moonpig/5f1932be-740a-422b-9bb9-430fcd3a621b",
    "source": "lever",
-   "posted_at": "2026-10-14",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-10-14",
-   "days_open": 7,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "workable:starling-bank:E989B54205",
-   "title": "Motion Designer",
-   "company": "Starling Bank",
-   "company_type": "adjacent",
-   "location": "London, England, United Kingdom",
-   "url": "https://apply.workable.com/j/E989B54205",
-   "source": "workable",
    "posted_at": "2026-10-14",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
