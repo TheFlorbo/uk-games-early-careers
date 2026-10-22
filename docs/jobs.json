@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-22T04:22:58.705331+00:00",
- "count": 21,
+ "generated": "2026-10-22T13:41:44.496783+00:00",
+ "count": 22,
  "jobs": [
   {
    "uid": "smartrecruiters:asos:744000156128539",
@@ -71,14 +71,31 @@
    "location_count": 1
   },
   {
+   "uid": "greenhouse:monzo:8102814",
+   "title": "Finance Analyst",
+   "company": "Monzo",
+   "company_type": "adjacent",
+   "location": "London",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8102814",
+   "source": "greenhouse",
+   "posted_at": "2026-10-22",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-10-22",
+   "days_open": 0,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
    "uid": "greenhouse:complyadvantage:8902109002",
-   "title": "GTM Engineer",
+   "title": "Founding GTM Engineer",
    "company": "ComplyAdvantage",
    "company_type": "adjacent",
    "location": "London, England, United Kingdom",
    "url": "https://complyadvantage.com/careers/jobs/8902109002?gh_jid=8902109002",
    "source": "greenhouse",
-   "posted_at": "2026-10-21",
+   "posted_at": "2026-10-22",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
    "is_new": false,
