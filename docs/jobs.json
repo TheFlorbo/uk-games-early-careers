@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-23T04:27:36.153811+00:00",
- "count": 23,
+ "generated": "2026-10-23T13:18:05.070088+00:00",
+ "count": 22,
  "jobs": [
   {
    "uid": "smartrecruiters:asos:744000156128539",
@@ -95,7 +95,7 @@
    "location": "London",
    "url": "https://jobs.ashbyhq.com/trainline/ce591ff8-7272-4e1a-8a61-1769e0342249",
    "source": "ashby",
-   "posted_at": "2026-10-22",
+   "posted_at": "2026-10-23",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
    "is_new": false,
@@ -350,23 +350,6 @@
    "location": "London, England, United Kingdom",
    "url": "https://apply.workable.com/j/0A13F0BEE0",
    "source": "workable",
-   "posted_at": "2026-09-09",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-09-09",
-   "days_open": 44,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "ashby:trainline:d3f05d01-d762-4cbc-b3c4-bd7a5f293363",
-   "title": "Embedded Data Engineer - ML",
-   "company": "Trainline",
-   "company_type": "adjacent",
-   "location": "London",
-   "url": "https://jobs.ashbyhq.com/trainline/d3f05d01-d762-4cbc-b3c4-bd7a5f293363",
-   "source": "ashby",
    "posted_at": "2026-09-09",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
