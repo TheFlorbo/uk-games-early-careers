@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-26T04:24:53.494845+00:00",
- "count": 22,
+ "generated": "2026-10-26T15:05:50.389868+00:00",
+ "count": 21,
  "jobs": [
   {
    "uid": "smartrecruiters:asos:744000156128539",
@@ -67,23 +67,6 @@
    "is_new": false,
    "first_seen": "2026-09-28",
    "days_open": 28,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "greenhouse:monzo:8102814",
-   "title": "Finance Analyst",
-   "company": "Monzo",
-   "company_type": "adjacent",
-   "location": "London",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/8102814",
-   "source": "greenhouse",
-   "posted_at": "2026-10-22",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-10-22",
-   "days_open": 4,
    "repost_count": 0,
    "location_count": 1
   },
