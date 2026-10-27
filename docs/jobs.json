@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-27T14:19:22.560640+00:00",
- "count": 20,
+ "generated": "2026-10-27T20:34:05.109316+00:00",
+ "count": 21,
  "jobs": [
   {
    "uid": "smartrecruiters:asos:744000156128539",
@@ -81,7 +81,7 @@
    "posted_at": "2026-10-27",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-10-27",
    "days_open": 0,
    "repost_count": 0,
@@ -118,6 +118,23 @@
    "is_new": false,
    "first_seen": "2026-10-21",
    "days_open": 6,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "lever:moonpig:5f1932be-740a-422b-9bb9-430fcd3a621b",
+   "title": "Software Engineer \u2013 Fulfilment",
+   "company": "Moonpig",
+   "company_type": "adjacent",
+   "location": "Manchester",
+   "url": "https://jobs.lever.co/moonpig/5f1932be-740a-422b-9bb9-430fcd3a621b",
+   "source": "lever",
+   "posted_at": "2026-10-14",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": false,
+   "first_seen": "2026-10-14",
+   "days_open": 13,
    "repost_count": 0,
    "location_count": 1
   },
