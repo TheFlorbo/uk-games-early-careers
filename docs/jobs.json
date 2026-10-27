@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-27T04:43:50.124916+00:00",
- "count": 21,
+ "generated": "2026-10-27T14:19:22.560640+00:00",
+ "count": 20,
  "jobs": [
   {
    "uid": "smartrecruiters:asos:744000156128539",
@@ -71,6 +71,23 @@
    "location_count": 1
   },
   {
+   "uid": "ashby:marshmallow:086f8b22-5205-43b5-8b2a-75b0ad9fa13e",
+   "title": "Pricing Data Scientist",
+   "company": "Marshmallow",
+   "company_type": "adjacent",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/marshmallow/086f8b22-5205-43b5-8b2a-75b0ad9fa13e",
+   "source": "ashby",
+   "posted_at": "2026-10-27",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-10-27",
+   "days_open": 0,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
    "uid": "ashby:trainline:ce591ff8-7272-4e1a-8a61-1769e0342249",
    "title": "Data Scientist",
    "company": "Trainline",
@@ -78,7 +95,7 @@
    "location": "London",
    "url": "https://jobs.ashbyhq.com/trainline/ce591ff8-7272-4e1a-8a61-1769e0342249",
    "source": "ashby",
-   "posted_at": "2026-10-23",
+   "posted_at": "2026-10-27",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
    "is_new": false,
@@ -101,40 +118,6 @@
    "is_new": false,
    "first_seen": "2026-10-21",
    "days_open": 6,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "ashby:marshmallow:27e7e5ca-6cf7-4c91-b922-a1cb792917e0",
-   "title": "Pricing Data Scientist",
-   "company": "Marshmallow",
-   "company_type": "adjacent",
-   "location": "London",
-   "url": "https://jobs.ashbyhq.com/marshmallow/27e7e5ca-6cf7-4c91-b922-a1cb792917e0",
-   "source": "ashby",
-   "posted_at": "2026-10-15",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-10-15",
-   "days_open": 12,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "lever:moonpig:5f1932be-740a-422b-9bb9-430fcd3a621b",
-   "title": "Software Engineer \u2013 Fulfilment",
-   "company": "Moonpig",
-   "company_type": "adjacent",
-   "location": "Manchester",
-   "url": "https://jobs.lever.co/moonpig/5f1932be-740a-422b-9bb9-430fcd3a621b",
-   "source": "lever",
-   "posted_at": "2026-10-14",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-10-14",
-   "days_open": 13,
    "repost_count": 0,
    "location_count": 1
   },
