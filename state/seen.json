@@ -253,7 +253,7 @@
  },
  "greenhouse:monzo:7564605": {
   "first_seen": "2026-10-28",
-  "gone_since": null,
+  "gone_since": "2026-10-28",
   "last_seen": "2026-10-28",
   "repost_count": 0
  },
@@ -487,6 +487,12 @@
  },
  "workable:starling-bank:4A1A00B7C8": {
   "first_seen": "2026-09-09",
+  "gone_since": null,
+  "last_seen": "2026-10-28",
+  "repost_count": 0
+ },
+ "workable:starling-bank:5B969F290C": {
+  "first_seen": "2026-10-28",
   "gone_since": null,
   "last_seen": "2026-10-28",
   "repost_count": 0

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T15:00:55.288229+00:00",
+ "generated": "2026-10-28T20:55:44.355752+00:00",
  "count": 24,
  "jobs": [
   {
@@ -71,23 +71,6 @@
    "location_count": 1
   },
   {
-   "uid": "greenhouse:monzo:7564605",
-   "title": "Analytics Engineer",
-   "company": "Monzo",
-   "company_type": "adjacent",
-   "location": "Cardiff, London or Remote (UK)",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/7564605",
-   "source": "greenhouse",
-   "posted_at": "2026-10-28",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": true,
-   "first_seen": "2026-10-28",
-   "days_open": 0,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
    "uid": "workable:starling-bank:2932779F8D",
    "title": "Content Designer",
    "company": "Starling Bank",
@@ -98,11 +81,28 @@
    "posted_at": "2026-10-28",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-10-28",
    "days_open": 0,
    "repost_count": 0,
    "location_count": 1
+  },
+  {
+   "uid": "workable:starling-bank:5B969F290C",
+   "title": "Infrastructure Engineer",
+   "company": "Starling Bank",
+   "company_type": "adjacent",
+   "location": "London, England, United Kingdom \u00b7 Manchester, England, United Kingdom \u00b7 Southampton, England, United Kingdom",
+   "url": "https://apply.workable.com/j/5B969F290C",
+   "source": "workable",
+   "posted_at": "2026-10-28",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": false,
+   "first_seen": "2026-10-28",
+   "days_open": 0,
+   "repost_count": 0,
+   "location_count": 3
   },
   {
    "uid": "ashby:marshmallow:086f8b22-5205-43b5-8b2a-75b0ad9fa13e",
