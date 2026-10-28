@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-28T05:18:01.669426+00:00",
- "count": 21,
+ "generated": "2026-10-28T15:00:55.288229+00:00",
+ "count": 24,
  "jobs": [
   {
    "uid": "smartrecruiters:asos:744000156128539",
@@ -71,6 +71,40 @@
    "location_count": 1
   },
   {
+   "uid": "greenhouse:monzo:7564605",
+   "title": "Analytics Engineer",
+   "company": "Monzo",
+   "company_type": "adjacent",
+   "location": "Cardiff, London or Remote (UK)",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/7564605",
+   "source": "greenhouse",
+   "posted_at": "2026-10-28",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-10-28",
+   "days_open": 0,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "workable:starling-bank:2932779F8D",
+   "title": "Content Designer",
+   "company": "Starling Bank",
+   "company_type": "adjacent",
+   "location": "London, England, United Kingdom",
+   "url": "https://apply.workable.com/j/2932779F8D",
+   "source": "workable",
+   "posted_at": "2026-10-28",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-10-28",
+   "days_open": 0,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
    "uid": "ashby:marshmallow:086f8b22-5205-43b5-8b2a-75b0ad9fa13e",
    "title": "Pricing Data Scientist",
    "company": "Marshmallow",
@@ -136,6 +170,23 @@
    "first_seen": "2026-10-14",
    "days_open": 14,
    "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "workable:starling-bank:E989B54205",
+   "title": "Motion Designer",
+   "company": "Starling Bank",
+   "company_type": "adjacent",
+   "location": "London, England, United Kingdom",
+   "url": "https://apply.workable.com/j/E989B54205",
+   "source": "workable",
+   "posted_at": "2026-10-28",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": false,
+   "first_seen": "2026-10-14",
+   "days_open": 14,
+   "repost_count": 1,
    "location_count": 1
   },
   {

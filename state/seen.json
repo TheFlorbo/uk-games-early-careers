@@ -251,6 +251,12 @@
   "last_seen": "2026-10-09",
   "repost_count": 0
  },
+ "greenhouse:monzo:7564605": {
+  "first_seen": "2026-10-28",
+  "gone_since": null,
+  "last_seen": "2026-10-28",
+  "repost_count": 0
+ },
  "greenhouse:monzo:8013699": {
   "first_seen": "2026-07-23",
   "gone_since": "2026-09-05",
@@ -461,6 +467,12 @@
   "last_seen": "2026-09-05",
   "repost_count": 0
  },
+ "workable:starling-bank:2932779F8D": {
+  "first_seen": "2026-10-28",
+  "gone_since": null,
+  "last_seen": "2026-10-28",
+  "repost_count": 0
+ },
  "workable:starling-bank:2E114D0C9C": {
   "first_seen": "2026-08-05",
   "gone_since": "2026-09-05",
@@ -571,8 +583,8 @@
  },
  "workable:starling-bank:E989B54205": {
   "first_seen": "2026-10-14",
-  "gone_since": "2026-10-21",
-  "last_seen": "2026-10-21",
-  "repost_count": 0
+  "gone_since": null,
+  "last_seen": "2026-10-28",
+  "repost_count": 1
  }
 }
