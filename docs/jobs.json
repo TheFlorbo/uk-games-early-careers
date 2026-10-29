@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T05:29:14.260354+00:00",
+ "generated": "2026-10-29T15:08:20.513206+00:00",
  "count": 23,
  "jobs": [
   {
@@ -44,7 +44,7 @@
    "location": "London",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8232726",
    "source": "greenhouse",
-   "posted_at": "2026-09-30",
+   "posted_at": "2026-10-29",
    "tier": "confirmed",
    "level_reason": "title says 'intern'",
    "is_new": false,
