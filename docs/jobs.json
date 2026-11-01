@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-31T23:16:17.013772+00:00",
- "count": 23,
+ "generated": "2026-11-01T05:43:26.851547+00:00",
+ "count": 22,
  "jobs": [
   {
    "uid": "smartrecruiters:asos:744000156128539",
@@ -15,7 +15,7 @@
    "level_reason": "title says 'assistant'",
    "is_new": false,
    "first_seen": "2026-10-17",
-   "days_open": 14,
+   "days_open": 15,
    "repost_count": 0,
    "location_count": 1
   },
@@ -32,24 +32,7 @@
    "level_reason": "title says 'assistant'",
    "is_new": false,
    "first_seen": "2026-10-15",
-   "days_open": 16,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "greenhouse:monzo:8232726",
-   "title": "Associate Data Scientist - Intern",
-   "company": "Monzo",
-   "company_type": "adjacent",
-   "location": "London",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/8232726",
-   "source": "greenhouse",
-   "posted_at": "2026-10-29",
-   "tier": "confirmed",
-   "level_reason": "title says 'intern'",
-   "is_new": false,
-   "first_seen": "2026-09-28",
-   "days_open": 33,
+   "days_open": 17,
    "repost_count": 0,
    "location_count": 1
   },
@@ -66,7 +49,7 @@
    "level_reason": "title says 'intern'",
    "is_new": false,
    "first_seen": "2026-09-28",
-   "days_open": 33,
+   "days_open": 34,
    "repost_count": 0,
    "location_count": 1
   },
@@ -83,7 +66,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-28",
-   "days_open": 3,
+   "days_open": 4,
    "repost_count": 0,
    "location_count": 1
   },
@@ -100,7 +83,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-28",
-   "days_open": 3,
+   "days_open": 4,
    "repost_count": 0,
    "location_count": 3
   },
@@ -117,7 +100,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-27",
-   "days_open": 4,
+   "days_open": 5,
    "repost_count": 0,
    "location_count": 1
   },
@@ -134,7 +117,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-22",
-   "days_open": 9,
+   "days_open": 10,
    "repost_count": 0,
    "location_count": 1
   },
@@ -151,7 +134,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-21",
-   "days_open": 10,
+   "days_open": 11,
    "repost_count": 0,
    "location_count": 1
   },
@@ -168,7 +151,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-14",
-   "days_open": 17,
+   "days_open": 18,
    "repost_count": 0,
    "location_count": 1
   },
@@ -185,7 +168,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-14",
-   "days_open": 17,
+   "days_open": 18,
    "repost_count": 1,
    "location_count": 1
   },
@@ -202,7 +185,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-14",
-   "days_open": 17,
+   "days_open": 18,
    "repost_count": 0,
    "location_count": 1
   },
@@ -219,7 +202,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-07",
-   "days_open": 24,
+   "days_open": 25,
    "repost_count": 0,
    "location_count": 1
   },
@@ -236,7 +219,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-07",
-   "days_open": 24,
+   "days_open": 25,
    "repost_count": 0,
    "location_count": 1
   },
@@ -253,7 +236,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-06",
-   "days_open": 25,
+   "days_open": 26,
    "repost_count": 0,
    "location_count": 1
   },
@@ -270,7 +253,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-06",
-   "days_open": 25,
+   "days_open": 26,
    "repost_count": 0,
    "location_count": 3
   },
@@ -287,7 +270,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-30",
-   "days_open": 31,
+   "days_open": 32,
    "repost_count": 0,
    "location_count": 1
   },
@@ -304,7 +287,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-24",
-   "days_open": 37,
+   "days_open": 38,
    "repost_count": 0,
    "location_count": 1
   },
@@ -321,7 +304,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-17",
-   "days_open": 44,
+   "days_open": 45,
    "repost_count": 0,
    "location_count": 1
   },
@@ -338,7 +321,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-15",
-   "days_open": 46,
+   "days_open": 47,
    "repost_count": 0,
    "location_count": 1
   },
@@ -355,7 +338,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 52,
+   "days_open": 53,
    "repost_count": 0,
    "location_count": 1
   },
@@ -372,7 +355,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 52,
+   "days_open": 53,
    "repost_count": 0,
    "location_count": 3
   },
@@ -389,7 +372,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 52,
+   "days_open": 53,
    "repost_count": 0,
    "location_count": 1
   }
