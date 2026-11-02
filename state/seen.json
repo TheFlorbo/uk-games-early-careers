@@ -59,6 +59,12 @@
   "last_seen": "2026-10-27",
   "repost_count": 0
  },
+ "ashby:marshmallow:99c302d4-2772-4e23-bc03-55bfea905f66": {
+  "first_seen": "2026-11-02",
+  "gone_since": null,
+  "last_seen": "2026-11-02",
+  "repost_count": 0
+ },
  "ashby:trainline:23fb0d68-f4fe-487d-86d0-093650405932": {
   "first_seen": "2026-10-07",
   "gone_since": null,
@@ -295,7 +301,7 @@
  },
  "greenhouse:monzo:8156261": {
   "first_seen": "2026-09-28",
-  "gone_since": null,
+  "gone_since": "2026-11-02",
   "last_seen": "2026-11-02",
   "repost_count": 0
  },
