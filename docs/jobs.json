@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-03T02:09:14.468626+00:00",
- "count": 22,
+ "generated": "2026-11-03T11:48:16.655320+00:00",
+ "count": 20,
  "jobs": [
   {
    "uid": "ashby:marshmallow:99c302d4-2772-4e23-bc03-55bfea905f66",
@@ -173,23 +173,6 @@
    "location_count": 1
   },
   {
-   "uid": "ashby:trainline:ab89587a-3e76-4ca2-b85e-7105637d8751",
-   "title": "iOS Engineer",
-   "company": "Trainline",
-   "company_type": "adjacent",
-   "location": "London",
-   "url": "https://jobs.ashbyhq.com/trainline/ab89587a-3e76-4ca2-b85e-7105637d8751",
-   "source": "ashby",
-   "posted_at": "2026-10-21",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-10-14",
-   "days_open": 20,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
    "uid": "smartrecruiters:asos:744000154054514",
    "title": "Associate Data Engineer",
    "company": "ASOS",
@@ -220,23 +203,6 @@
    "is_new": false,
    "first_seen": "2026-10-07",
    "days_open": 27,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "greenhouse:monzo:8195436",
-   "title": "Regulatory Reporting Analyst",
-   "company": "Monzo",
-   "company_type": "adjacent",
-   "location": "London",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/8195436",
-   "source": "greenhouse",
-   "posted_at": "2026-10-06",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-10-06",
-   "days_open": 28,
    "repost_count": 0,
    "location_count": 1
   },
