@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-04T11:59:11.493916+00:00",
- "count": 20,
+ "generated": "2026-11-04T19:41:22.022260+00:00",
+ "count": 19,
  "jobs": [
   {
    "uid": "ashby:marshmallow:99c302d4-2772-4e23-bc03-55bfea905f66",
@@ -50,6 +50,23 @@
    "is_new": false,
    "first_seen": "2026-10-15",
    "days_open": 20,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "ashby:marshmallow:0aef1ce7-b6f1-409e-8656-5fd177eded62",
+   "title": "Product Designer",
+   "company": "Marshmallow",
+   "company_type": "adjacent",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/marshmallow/0aef1ce7-b6f1-409e-8656-5fd177eded62",
+   "source": "ashby",
+   "posted_at": "2026-11-04",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-11-04",
+   "days_open": 0,
    "repost_count": 0,
    "location_count": 1
   },
@@ -156,23 +173,6 @@
    "location_count": 1
   },
   {
-   "uid": "lever:moonpig:5f1932be-740a-422b-9bb9-430fcd3a621b",
-   "title": "Software Engineer \u2013 Fulfilment",
-   "company": "Moonpig",
-   "company_type": "adjacent",
-   "location": "Manchester",
-   "url": "https://jobs.lever.co/moonpig/5f1932be-740a-422b-9bb9-430fcd3a621b",
-   "source": "lever",
-   "posted_at": "2026-10-14",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-10-14",
-   "days_open": 21,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
    "uid": "workable:starling-bank:E989B54205",
    "title": "Motion Designer",
    "company": "Starling Bank",
@@ -271,23 +271,6 @@
    "is_new": false,
    "first_seen": "2026-09-17",
    "days_open": 48,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "ashby:trainline:ff2a60ee-c19d-4a36-bb5d-2145c8de6f37",
-   "title": "IT Support Analyst",
-   "company": "Trainline",
-   "company_type": "adjacent",
-   "location": "London",
-   "url": "https://jobs.ashbyhq.com/trainline/ff2a60ee-c19d-4a36-bb5d-2145c8de6f37",
-   "source": "ashby",
-   "posted_at": "2026-09-15",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-09-15",
-   "days_open": 50,
    "repost_count": 0,
    "location_count": 1
   },
