@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-05T00:49:34.280592+00:00",
- "count": 20,
+ "generated": "2026-11-05T12:07:10.674069+00:00",
+ "count": 17,
  "jobs": [
   {
    "uid": "ashby:marshmallow:99c302d4-2772-4e23-bc03-55bfea905f66",
@@ -54,23 +54,6 @@
    "location_count": 1
   },
   {
-   "uid": "ashby:marshmallow:0aef1ce7-b6f1-409e-8656-5fd177eded62",
-   "title": "Product Designer",
-   "company": "Marshmallow",
-   "company_type": "adjacent",
-   "location": "London",
-   "url": "https://jobs.ashbyhq.com/marshmallow/0aef1ce7-b6f1-409e-8656-5fd177eded62",
-   "source": "ashby",
-   "posted_at": "2026-11-04",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-11-04",
-   "days_open": 1,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
    "uid": "smartrecruiters:asos:744000159449334",
    "title": "Associate Data Engineer",
    "company": "ASOS",
@@ -103,23 +86,6 @@
    "days_open": 8,
    "repost_count": 0,
    "location_count": 1
-  },
-  {
-   "uid": "workable:starling-bank:5B969F290C",
-   "title": "Infrastructure Engineer",
-   "company": "Starling Bank",
-   "company_type": "adjacent",
-   "location": "London, England, United Kingdom \u00b7 Manchester, England, United Kingdom \u00b7 Southampton, England, United Kingdom",
-   "url": "https://apply.workable.com/j/5B969F290C",
-   "source": "workable",
-   "posted_at": "2026-10-28",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-10-28",
-   "days_open": 8,
-   "repost_count": 0,
-   "location_count": 3
   },
   {
    "uid": "ashby:marshmallow:086f8b22-5205-43b5-8b2a-75b0ad9fa13e",
@@ -169,23 +135,6 @@
    "is_new": false,
    "first_seen": "2026-10-21",
    "days_open": 15,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "lever:moonpig:5f1932be-740a-422b-9bb9-430fcd3a621b",
-   "title": "Software Engineer \u2013 Fulfilment",
-   "company": "Moonpig",
-   "company_type": "adjacent",
-   "location": "Manchester",
-   "url": "https://jobs.lever.co/moonpig/5f1932be-740a-422b-9bb9-430fcd3a621b",
-   "source": "lever",
-   "posted_at": "2026-10-14",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-10-14",
-   "days_open": 22,
    "repost_count": 0,
    "location_count": 1
   },
