@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-04T19:41:22.022260+00:00",
- "count": 19,
+ "generated": "2026-11-05T00:49:34.280592+00:00",
+ "count": 20,
  "jobs": [
   {
    "uid": "ashby:marshmallow:99c302d4-2772-4e23-bc03-55bfea905f66",
@@ -15,7 +15,7 @@
    "level_reason": "title says 'junior'",
    "is_new": false,
    "first_seen": "2026-11-02",
-   "days_open": 2,
+   "days_open": 3,
    "repost_count": 0,
    "location_count": 1
   },
@@ -32,7 +32,7 @@
    "level_reason": "title says 'assistant'",
    "is_new": false,
    "first_seen": "2026-10-17",
-   "days_open": 18,
+   "days_open": 19,
    "repost_count": 0,
    "location_count": 1
   },
@@ -49,7 +49,7 @@
    "level_reason": "title says 'assistant'",
    "is_new": false,
    "first_seen": "2026-10-15",
-   "days_open": 20,
+   "days_open": 21,
    "repost_count": 0,
    "location_count": 1
   },
@@ -64,9 +64,9 @@
    "posted_at": "2026-11-04",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-11-04",
-   "days_open": 0,
+   "days_open": 1,
    "repost_count": 0,
    "location_count": 1
   },
@@ -83,7 +83,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-11-03",
-   "days_open": 1,
+   "days_open": 2,
    "repost_count": 0,
    "location_count": 1
   },
@@ -100,7 +100,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-28",
-   "days_open": 7,
+   "days_open": 8,
    "repost_count": 0,
    "location_count": 1
   },
@@ -117,7 +117,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-28",
-   "days_open": 7,
+   "days_open": 8,
    "repost_count": 0,
    "location_count": 3
   },
@@ -134,7 +134,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-27",
-   "days_open": 8,
+   "days_open": 9,
    "repost_count": 0,
    "location_count": 1
   },
@@ -151,7 +151,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-22",
-   "days_open": 13,
+   "days_open": 14,
    "repost_count": 0,
    "location_count": 1
   },
@@ -168,7 +168,24 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-21",
-   "days_open": 14,
+   "days_open": 15,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "lever:moonpig:5f1932be-740a-422b-9bb9-430fcd3a621b",
+   "title": "Software Engineer \u2013 Fulfilment",
+   "company": "Moonpig",
+   "company_type": "adjacent",
+   "location": "Manchester",
+   "url": "https://jobs.lever.co/moonpig/5f1932be-740a-422b-9bb9-430fcd3a621b",
+   "source": "lever",
+   "posted_at": "2026-10-14",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": false,
+   "first_seen": "2026-10-14",
+   "days_open": 22,
    "repost_count": 0,
    "location_count": 1
   },
@@ -185,7 +202,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-14",
-   "days_open": 21,
+   "days_open": 22,
    "repost_count": 1,
    "location_count": 1
   },
@@ -202,7 +219,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-07",
-   "days_open": 28,
+   "days_open": 29,
    "repost_count": 0,
    "location_count": 1
   },
@@ -219,7 +236,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-06",
-   "days_open": 29,
+   "days_open": 30,
    "repost_count": 0,
    "location_count": 3
   },
@@ -236,7 +253,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-30",
-   "days_open": 35,
+   "days_open": 36,
    "repost_count": 0,
    "location_count": 1
   },
@@ -253,7 +270,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-24",
-   "days_open": 41,
+   "days_open": 42,
    "repost_count": 0,
    "location_count": 1
   },
@@ -270,7 +287,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-17",
-   "days_open": 48,
+   "days_open": 49,
    "repost_count": 0,
    "location_count": 1
   },
@@ -287,7 +304,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 56,
+   "days_open": 57,
    "repost_count": 0,
    "location_count": 1
   },
@@ -304,7 +321,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 56,
+   "days_open": 57,
    "repost_count": 0,
    "location_count": 3
   },
@@ -321,7 +338,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 56,
+   "days_open": 57,
    "repost_count": 0,
    "location_count": 1
   }
