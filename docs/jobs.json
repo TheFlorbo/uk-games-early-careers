@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-06T15:50:56.763429+00:00",
- "count": 19,
+ "generated": "2026-11-06T21:25:40.587120+00:00",
+ "count": 18,
  "jobs": [
   {
    "uid": "smartrecruiters:asos:744000159904039",
@@ -170,23 +170,6 @@
    "first_seen": "2026-10-14",
    "days_open": 23,
    "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "workable:starling-bank:E989B54205",
-   "title": "Motion Designer",
-   "company": "Starling Bank",
-   "company_type": "adjacent",
-   "location": "London, England, United Kingdom",
-   "url": "https://apply.workable.com/j/E989B54205",
-   "source": "workable",
-   "posted_at": "2026-10-28",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-10-14",
-   "days_open": 23,
-   "repost_count": 1,
    "location_count": 1
   },
   {
