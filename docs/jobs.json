@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-09T05:54:24.692895+00:00",
- "count": 18,
+ "generated": "2026-11-09T18:38:41.190960+00:00",
+ "count": 19,
  "jobs": [
   {
    "uid": "smartrecruiters:asos:744000159904039",
@@ -67,6 +67,23 @@
    "is_new": false,
    "first_seen": "2026-10-15",
    "days_open": 25,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "greenhouse:monzo:8359155",
+   "title": "VAIB Strategy Analyst",
+   "company": "Monzo",
+   "company_type": "adjacent",
+   "location": "Cardiff, London or Remote (UK)",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8359155",
+   "source": "greenhouse",
+   "posted_at": "2026-11-09",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-11-09",
+   "days_open": 0,
    "repost_count": 0,
    "location_count": 1
   },
