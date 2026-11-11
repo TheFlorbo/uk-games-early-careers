@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-11T05:50:50.143211+00:00",
- "count": 21,
+ "generated": "2026-11-11T16:01:55.421115+00:00",
+ "count": 20,
  "jobs": [
   {
    "uid": "smartrecruiters:asos:744000159904039",
@@ -71,31 +71,14 @@
    "location_count": 1
   },
   {
-   "uid": "greenhouse:monzo:8365296",
-   "title": "FOS Insights Analyst",
-   "company": "Monzo",
-   "company_type": "adjacent",
-   "location": "Cardiff, London or Remote (UK)",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/8365296",
-   "source": "greenhouse",
-   "posted_at": "2026-11-09",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-11-09",
-   "days_open": 2,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
    "uid": "greenhouse:monzo:8359155",
-   "title": "VAIB Strategy Analyst",
+   "title": "Vulnerability Strategy Analyst",
    "company": "Monzo",
    "company_type": "adjacent",
    "location": "Cardiff, London or Remote (UK)",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8359155",
    "source": "greenhouse",
-   "posted_at": "2026-11-09",
+   "posted_at": "2026-11-11",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
    "is_new": false,
