@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-12T01:52:03.014188+00:00",
- "count": 19,
+ "generated": "2026-11-12T12:28:38.890837+00:00",
+ "count": 17,
  "jobs": [
   {
    "uid": "smartrecruiters:asos:744000159904039",
@@ -88,23 +88,6 @@
    "location_count": 1
   },
   {
-   "uid": "workable:starling-bank:2932779F8D",
-   "title": "Content Designer",
-   "company": "Starling Bank",
-   "company_type": "adjacent",
-   "location": "London, England, United Kingdom",
-   "url": "https://apply.workable.com/j/2932779F8D",
-   "source": "workable",
-   "posted_at": "2026-10-28",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-10-28",
-   "days_open": 15,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
    "uid": "ashby:marshmallow:086f8b22-5205-43b5-8b2a-75b0ad9fa13e",
    "title": "Pricing Data Scientist",
    "company": "Marshmallow",
@@ -146,29 +129,12 @@
    "location": "London, England, United Kingdom",
    "url": "https://complyadvantage.com/careers/jobs/8902109002?gh_jid=8902109002",
    "source": "greenhouse",
-   "posted_at": "2026-11-05",
+   "posted_at": "2026-11-12",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-21",
    "days_open": 22,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "lever:moonpig:5f1932be-740a-422b-9bb9-430fcd3a621b",
-   "title": "Software Engineer \u2013 Fulfilment",
-   "company": "Moonpig",
-   "company_type": "adjacent",
-   "location": "Manchester",
-   "url": "https://jobs.lever.co/moonpig/5f1932be-740a-422b-9bb9-430fcd3a621b",
-   "source": "lever",
-   "posted_at": "2026-10-14",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-10-14",
-   "days_open": 29,
    "repost_count": 0,
    "location_count": 1
   },
