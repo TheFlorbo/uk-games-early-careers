@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T18:18:09.892295+00:00",
+ "generated": "2026-11-17T02:51:51.640828+00:00",
  "count": 15,
  "jobs": [
   {
@@ -15,7 +15,7 @@
    "level_reason": "title says 'assistant'",
    "is_new": false,
    "first_seen": "2026-11-05",
-   "days_open": 11,
+   "days_open": 12,
    "repost_count": 0,
    "location_count": 1
   },
@@ -32,7 +32,7 @@
    "level_reason": "title says 'assistant'",
    "is_new": false,
    "first_seen": "2026-10-17",
-   "days_open": 30,
+   "days_open": 31,
    "repost_count": 0,
    "location_count": 1
   },
@@ -49,7 +49,7 @@
    "level_reason": "title says 'assistant'",
    "is_new": false,
    "first_seen": "2026-10-15",
-   "days_open": 32,
+   "days_open": 33,
    "repost_count": 0,
    "location_count": 1
   },
@@ -64,9 +64,9 @@
    "posted_at": "2026-11-16",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-11-16",
-   "days_open": 0,
+   "days_open": 1,
    "repost_count": 0,
    "location_count": 1
   },
@@ -81,9 +81,9 @@
    "posted_at": "2026-11-16",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
-   "is_new": true,
+   "is_new": false,
    "first_seen": "2026-11-16",
-   "days_open": 0,
+   "days_open": 1,
    "repost_count": 0,
    "location_count": 1
   },
@@ -100,7 +100,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-11-09",
-   "days_open": 7,
+   "days_open": 8,
    "repost_count": 0,
    "location_count": 1
   },
@@ -117,7 +117,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-22",
-   "days_open": 25,
+   "days_open": 26,
    "repost_count": 0,
    "location_count": 1
   },
@@ -134,7 +134,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-21",
-   "days_open": 26,
+   "days_open": 27,
    "repost_count": 0,
    "location_count": 1
   },
@@ -151,7 +151,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-07",
-   "days_open": 40,
+   "days_open": 41,
    "repost_count": 0,
    "location_count": 1
   },
@@ -168,7 +168,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-10-06",
-   "days_open": 41,
+   "days_open": 42,
    "repost_count": 0,
    "location_count": 3
   },
@@ -185,7 +185,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-30",
-   "days_open": 47,
+   "days_open": 48,
    "repost_count": 0,
    "location_count": 1
   },
@@ -202,7 +202,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-24",
-   "days_open": 53,
+   "days_open": 54,
    "repost_count": 0,
    "location_count": 1
   },
@@ -219,7 +219,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 68,
+   "days_open": 69,
    "repost_count": 0,
    "location_count": 1
   },
@@ -236,7 +236,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 68,
+   "days_open": 69,
    "repost_count": 0,
    "location_count": 3
   },
@@ -253,7 +253,7 @@
    "level_reason": "no seniority stated either way",
    "is_new": false,
    "first_seen": "2026-09-09",
-   "days_open": 68,
+   "days_open": 69,
    "repost_count": 0,
    "location_count": 1
   }
