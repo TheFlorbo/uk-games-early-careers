@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-17T13:02:00.105911+00:00",
- "count": 16,
+ "generated": "2026-11-17T23:26:45.538624+00:00",
+ "count": 17,
  "jobs": [
   {
    "uid": "smartrecruiters:asos:744000159904039",
@@ -61,6 +61,23 @@
    "location": "Cardiff, London or Remote (UK)",
    "url": "https://job-boards.greenhouse.io/monzo/jobs/8393065",
    "source": "greenhouse",
+   "posted_at": "2026-11-17",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": false,
+   "first_seen": "2026-11-17",
+   "days_open": 0,
+   "repost_count": 0,
+   "location_count": 1
+  },
+  {
+   "uid": "ashby:trainline:2b8bc163-24ca-400d-b232-d437f56dd1f3",
+   "title": "Web Engineer",
+   "company": "Trainline",
+   "company_type": "adjacent",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/trainline/2b8bc163-24ca-400d-b232-d437f56dd1f3",
+   "source": "ashby",
    "posted_at": "2026-11-17",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
