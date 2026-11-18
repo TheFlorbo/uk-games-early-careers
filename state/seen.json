@@ -83,6 +83,12 @@
   "last_seen": "2026-09-05",
   "repost_count": 0
  },
+ "ashby:trainline:26bf3d2e-0ed4-4999-bdd1-555ead49f9f5": {
+  "first_seen": "2026-11-18",
+  "gone_since": null,
+  "last_seen": "2026-11-18",
+  "repost_count": 0
+ },
  "ashby:trainline:2b8bc163-24ca-400d-b232-d437f56dd1f3": {
   "first_seen": "2026-11-17",
   "gone_since": null,
@@ -127,7 +133,7 @@
  },
  "ashby:trainline:8536b13b-5ff7-4551-a77d-88d8b4dd43f5": {
   "first_seen": "2026-06-26",
-  "gone_since": null,
+  "gone_since": "2026-11-18",
   "last_seen": "2026-11-18",
   "repost_count": 0
  },
@@ -153,6 +159,12 @@
   "first_seen": "2026-09-23",
   "gone_since": "2026-10-05",
   "last_seen": "2026-10-05",
+  "repost_count": 0
+ },
+ "ashby:trainline:b0174860-8a94-4bd3-a307-373eeab586dd": {
+  "first_seen": "2026-11-18",
+  "gone_since": null,
+  "last_seen": "2026-11-18",
   "repost_count": 0
  },
  "ashby:trainline:bca4f7f5-5019-4d38-92e1-d94e236d428b": {
@@ -355,7 +367,7 @@
  },
  "greenhouse:monzo:8393065": {
   "first_seen": "2026-11-17",
-  "gone_since": null,
+  "gone_since": "2026-11-18",
   "last_seen": "2026-11-18",
   "repost_count": 0
  },

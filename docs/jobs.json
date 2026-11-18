@@ -1,7 +1,24 @@
 {
- "generated": "2026-11-18T07:01:40.602149+00:00",
+ "generated": "2026-11-18T17:08:26.009330+00:00",
  "count": 17,
  "jobs": [
+  {
+   "uid": "ashby:trainline:b0174860-8a94-4bd3-a307-373eeab586dd",
+   "title": "Intern Engineer",
+   "company": "Trainline",
+   "company_type": "adjacent",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/trainline/b0174860-8a94-4bd3-a307-373eeab586dd",
+   "source": "ashby",
+   "posted_at": "2026-11-18",
+   "tier": "confirmed",
+   "level_reason": "title says 'intern'",
+   "is_new": true,
+   "first_seen": "2026-11-18",
+   "days_open": 0,
+   "repost_count": 0,
+   "location_count": 1
+  },
   {
    "uid": "smartrecruiters:asos:744000159904039",
    "title": "Assistant Designer - MW ASOS Design",
@@ -54,23 +71,6 @@
    "location_count": 1
   },
   {
-   "uid": "greenhouse:monzo:8393065",
-   "title": "Financial Operations Analyst, 12 Month Fixed Term Contract",
-   "company": "Monzo",
-   "company_type": "adjacent",
-   "location": "Cardiff, London or Remote (UK)",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/8393065",
-   "source": "greenhouse",
-   "posted_at": "2026-11-17",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-11-17",
-   "days_open": 1,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
    "uid": "ashby:trainline:2b8bc163-24ca-400d-b232-d437f56dd1f3",
    "title": "Web Engineer",
    "company": "Trainline",
@@ -105,18 +105,18 @@
    "location_count": 1
   },
   {
-   "uid": "ashby:trainline:8cd86ce9-f9d7-4247-947a-a7c42bcc9b8b",
+   "uid": "ashby:trainline:26bf3d2e-0ed4-4999-bdd1-555ead49f9f5",
    "title": "Engineer - .NET Backend (London)",
    "company": "Trainline",
    "company_type": "adjacent",
    "location": "London",
-   "url": "https://jobs.ashbyhq.com/trainline/8cd86ce9-f9d7-4247-947a-a7c42bcc9b8b",
+   "url": "https://jobs.ashbyhq.com/trainline/26bf3d2e-0ed4-4999-bdd1-555ead49f9f5",
    "source": "ashby",
-   "posted_at": "2026-11-16",
+   "posted_at": "2026-11-18",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
    "is_new": false,
-   "first_seen": "2026-11-16",
+   "first_seen": "2026-11-18",
    "days_open": 2,
    "repost_count": 0,
    "location_count": 1
