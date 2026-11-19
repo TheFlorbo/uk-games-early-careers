@@ -91,7 +91,7 @@
  },
  "ashby:trainline:2b8bc163-24ca-400d-b232-d437f56dd1f3": {
   "first_seen": "2026-11-17",
-  "gone_since": null,
+  "gone_since": "2026-11-19",
   "last_seen": "2026-11-19",
   "repost_count": 0
  },
@@ -181,6 +181,12 @@
  },
  "ashby:trainline:ce591ff8-7272-4e1a-8a61-1769e0342249": {
   "first_seen": "2026-10-22",
+  "gone_since": null,
+  "last_seen": "2026-11-19",
+  "repost_count": 0
+ },
+ "ashby:trainline:ce9b7323-8411-430e-8d9c-c713f63f27cb": {
+  "first_seen": "2026-11-19",
   "gone_since": null,
   "last_seen": "2026-11-19",
   "repost_count": 0
@@ -493,7 +499,7 @@
  },
  "smartrecruiters:asos:744000155699529": {
   "first_seen": "2026-10-15",
-  "gone_since": null,
+  "gone_since": "2026-11-19",
   "last_seen": "2026-11-19",
   "repost_count": 0
  },

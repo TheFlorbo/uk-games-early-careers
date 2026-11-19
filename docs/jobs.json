@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-19T12:46:04.448239+00:00",
- "count": 17,
+ "generated": "2026-11-19T22:59:15.425009+00:00",
+ "count": 16,
  "jobs": [
   {
    "uid": "ashby:trainline:b0174860-8a94-4bd3-a307-373eeab586dd",
@@ -54,36 +54,19 @@
    "location_count": 1
   },
   {
-   "uid": "smartrecruiters:asos:744000155699529",
-   "title": "Entry Assistant Designer - Topshop",
-   "company": "ASOS",
-   "company_type": "adjacent",
-   "location": "London, England, gb",
-   "url": "https://jobs.smartrecruiters.com/asos/744000155699529",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-15",
-   "tier": "confirmed",
-   "level_reason": "title says 'assistant'",
-   "is_new": false,
-   "first_seen": "2026-10-15",
-   "days_open": 35,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "ashby:trainline:2b8bc163-24ca-400d-b232-d437f56dd1f3",
-   "title": "Web Engineer",
+   "uid": "ashby:trainline:ce9b7323-8411-430e-8d9c-c713f63f27cb",
+   "title": "UX Content Designer",
    "company": "Trainline",
    "company_type": "adjacent",
    "location": "London",
-   "url": "https://jobs.ashbyhq.com/trainline/2b8bc163-24ca-400d-b232-d437f56dd1f3",
+   "url": "https://jobs.ashbyhq.com/trainline/ce9b7323-8411-430e-8d9c-c713f63f27cb",
    "source": "ashby",
-   "posted_at": "2026-11-17",
+   "posted_at": "2026-11-19",
    "tier": "possible",
    "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-11-17",
-   "days_open": 2,
+   "is_new": true,
+   "first_seen": "2026-11-19",
+   "days_open": 0,
    "repost_count": 0,
    "location_count": 1
   },
