@@ -389,6 +389,12 @@
   "last_seen": "2026-10-07",
   "repost_count": 0
  },
+ "lever:farfetch:d20d0a53-80c4-422c-9d0c-ac9ec72afa39": {
+  "first_seen": "2026-11-20",
+  "gone_since": null,
+  "last_seen": "2026-11-20",
+  "repost_count": 0
+ },
  "lever:moonpig:447f51f7-8f80-41e3-bdc4-5c1d9ffc7ac0": {
   "first_seen": "2026-06-17",
   "gone_since": "2026-10-26",
@@ -505,7 +511,7 @@
  },
  "smartrecruiters:asos:744000156128539": {
   "first_seen": "2026-10-17",
-  "gone_since": null,
+  "gone_since": "2026-11-20",
   "last_seen": "2026-11-20",
   "repost_count": 0
  },

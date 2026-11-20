@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T06:54:45.636222+00:00",
+ "generated": "2026-11-20T16:53:34.030698+00:00",
  "count": 16,
  "jobs": [
   {
@@ -37,19 +37,19 @@
    "location_count": 1
   },
   {
-   "uid": "smartrecruiters:asos:744000156128539",
-   "title": "Assistant Buyer \u2013 Test & React ADWW (12 Month FTC)",
-   "company": "ASOS",
+   "uid": "lever:farfetch:d20d0a53-80c4-422c-9d0c-ac9ec72afa39",
+   "title": "Merchandise Planning & Analytics Analyst",
+   "company": "Farfetch",
    "company_type": "adjacent",
-   "location": "London, England, gb",
-   "url": "https://jobs.smartrecruiters.com/asos/744000156128539",
-   "source": "smartrecruiters",
-   "posted_at": "2026-10-17",
-   "tier": "confirmed",
-   "level_reason": "title says 'assistant'",
-   "is_new": false,
-   "first_seen": "2026-10-17",
-   "days_open": 34,
+   "location": "UK London, United Kingdom",
+   "url": "https://jobs.lever.co/farfetch/d20d0a53-80c4-422c-9d0c-ac9ec72afa39",
+   "source": "lever",
+   "posted_at": "2026-11-20",
+   "tier": "possible",
+   "level_reason": "no seniority stated either way",
+   "is_new": true,
+   "first_seen": "2026-11-20",
+   "days_open": 0,
    "repost_count": 0,
    "location_count": 1
   },
