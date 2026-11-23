@@ -121,9 +121,9 @@
  },
  "ashby:trainline:7c9c4568-4b40-4f55-b4f4-d186d9053203": {
   "first_seen": "2026-07-08",
-  "gone_since": "2026-11-04",
-  "last_seen": "2026-11-04",
-  "repost_count": 0
+  "gone_since": null,
+  "last_seen": "2026-11-23",
+  "repost_count": 1
  },
  "ashby:trainline:83d9f888-d262-4ec2-a69c-dbbeadb685e0": {
   "first_seen": "2026-09-10",
