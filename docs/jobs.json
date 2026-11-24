@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-24T02:50:39.533383+00:00",
- "count": 15,
+ "generated": "2026-11-24T14:43:11.346351+00:00",
+ "count": 14,
  "jobs": [
   {
    "uid": "ashby:trainline:b0174860-8a94-4bd3-a307-373eeab586dd",
@@ -33,23 +33,6 @@
    "is_new": false,
    "first_seen": "2026-11-05",
    "days_open": 19,
-   "repost_count": 0,
-   "location_count": 1
-  },
-  {
-   "uid": "lever:farfetch:d20d0a53-80c4-422c-9d0c-ac9ec72afa39",
-   "title": "Merchandise Planning & Analytics Analyst",
-   "company": "Farfetch",
-   "company_type": "adjacent",
-   "location": "UK London, United Kingdom",
-   "url": "https://jobs.lever.co/farfetch/d20d0a53-80c4-422c-9d0c-ac9ec72afa39",
-   "source": "lever",
-   "posted_at": "2026-11-20",
-   "tier": "possible",
-   "level_reason": "no seniority stated either way",
-   "is_new": false,
-   "first_seen": "2026-11-20",
-   "days_open": 4,
    "repost_count": 0,
    "location_count": 1
   },
